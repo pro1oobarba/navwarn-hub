@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--userchart node-->
-<userchart name="NAVAREA IV - in force - 20261013_2124" description="" version="1.0">
+<userchart name="NAVAREA IV - in force - 20261014_2258" description="" version="1.0">
   <!--userchart line-->
   <lines>
+    <line name="NAV IV 0996/26" description="">
+      <position>
+        <vertex id="1" latitude="49.050000" longitude="-53.616667"/>
+        <vertex id="2" latitude="51.500000" longitude="-50.250000"/>
+        <vertex id="3" latitude="53.250000" longitude="-50.250000"/>
+        <vertex id="4" latitude="60.000000" longitude="-58.000000"/>
+      </position>
+      <attribute lineType="2"/>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
+    </line>
+    <line name="NAV IV 0996/26" description="">
+      <position>
+        <vertex id="1" latitude="60.000000" longitude="-58.000000"/>
+        <vertex id="2" latitude="61.416667" longitude="-54.750000"/>
+        <vertex id="3" latitude="60.000000" longitude="-50.000000"/>
+        <vertex id="4" latitude="58.583333" longitude="-44.916667"/>
+        <vertex id="5" latitude="59.333333" longitude="-41.333333"/>
+        <vertex id="6" latitude="64.500000" longitude="-37.166667"/>
+        <vertex id="7" latitude="63.666667" longitude="-27.416667"/>
+      </position>
+      <attribute lineType="2"/>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
+    </line>
+    <line name="NAV IV 0996/26" description="">
+      <position>
+        <vertex id="1" latitude="51.466667" longitude="-57.833333"/>
+        <vertex id="2" latitude="50.783333" longitude="-57.050000"/>
+      </position>
+      <attribute lineType="2"/>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
+    </line>
     <line name="NAV IV 0990/26" description="">
       <position>
         <vertex id="1" latitude="49.300000" longitude="-53.616667"/>
@@ -27,39 +58,6 @@
       <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
     </line>
     <line name="NAV IV 0990/26" description="">
-      <position>
-        <vertex id="1" latitude="51.466667" longitude="-57.833333"/>
-        <vertex id="2" latitude="50.783333" longitude="-57.050000"/>
-      </position>
-      <attribute lineType="2"/>
-      <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
-    </line>
-    <line name="NAV IV 0985/26" description="">
-      <position>
-        <vertex id="1" latitude="49.416667" longitude="-54.000000"/>
-        <vertex id="2" latitude="50.750000" longitude="-52.500000"/>
-        <vertex id="3" latitude="52.500000" longitude="-50.750000"/>
-        <vertex id="4" latitude="54.000000" longitude="-50.500000"/>
-        <vertex id="5" latitude="60.000000" longitude="-58.000000"/>
-      </position>
-      <attribute lineType="2"/>
-      <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
-    </line>
-    <line name="NAV IV 0985/26" description="">
-      <position>
-        <vertex id="1" latitude="60.000000" longitude="-58.000000"/>
-        <vertex id="2" latitude="60.833333" longitude="-56.250000"/>
-        <vertex id="3" latitude="59.750000" longitude="-53.666667"/>
-        <vertex id="4" latitude="60.000000" longitude="-50.000000"/>
-        <vertex id="5" latitude="58.666667" longitude="-43.833333"/>
-        <vertex id="6" latitude="59.333333" longitude="-41.333333"/>
-        <vertex id="7" latitude="63.250000" longitude="-38.250000"/>
-        <vertex id="8" latitude="63.666667" longitude="-27.416667"/>
-      </position>
-      <attribute lineType="2"/>
-      <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
-    </line>
-    <line name="NAV IV 0985/26" description="">
       <position>
         <vertex id="1" latitude="51.466667" longitude="-57.833333"/>
         <vertex id="2" latitude="50.783333" longitude="-57.050000"/>
@@ -94,6 +92,46 @@
   </lines>
   <!--userchart area-->
   <areas>
+    <area name="NAV IV 0993/26" description="">
+      <position>
+        <vertex id="1" latitude="6.941000" longitude="-58.064000"/>
+        <vertex id="2" latitude="6.939833" longitude="-58.063000"/>
+        <vertex id="3" latitude="6.836167" longitude="-58.167833"/>
+        <vertex id="4" latitude="6.833833" longitude="-58.168500"/>
+        <vertex id="5" latitude="6.833333" longitude="-58.168833"/>
+        <vertex id="6" latitude="6.832667" longitude="-58.169333"/>
+        <vertex id="7" latitude="6.827333" longitude="-58.169833"/>
+        <vertex id="8" latitude="6.827333" longitude="-58.171000"/>
+        <vertex id="9" latitude="6.832833" longitude="-58.170167"/>
+        <vertex id="10" latitude="6.833833" longitude="-58.170000"/>
+        <vertex id="11" latitude="6.834500" longitude="-58.169667"/>
+        <vertex id="12" latitude="6.835167" longitude="-58.169000"/>
+        <vertex id="13" latitude="6.835833" longitude="-58.168500"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV IV 0992/26" description="">
+      <position>
+        <vertex id="1" latitude="28.613833" longitude="-80.598667"/>
+        <vertex id="2" latitude="28.600000" longitude="-80.433333"/>
+        <vertex id="3" latitude="28.433333" longitude="-80.116667"/>
+        <vertex id="4" latitude="28.350000" longitude="-80.133333"/>
+        <vertex id="5" latitude="28.480000" longitude="-80.537000"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV IV 0992/26" description="">
+      <position>
+        <vertex id="1" latitude="26.100000" longitude="-76.033333"/>
+        <vertex id="2" latitude="26.166667" longitude="-76.016667"/>
+        <vertex id="3" latitude="25.600000" longitude="-73.933333"/>
+        <vertex id="4" latitude="25.450000" longitude="-73.733333"/>
+        <vertex id="5" latitude="25.066667" longitude="-73.766667"/>
+        <vertex id="6" latitude="24.900000" longitude="-73.983333"/>
+        <vertex id="7" latitude="24.966667" longitude="-74.550000"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
     <area name="NAV IV 0987/26" description="">
       <position>
         <vertex id="1" latitude="10.492000" longitude="-75.750000"/>
@@ -3446,11 +3484,18 @@
   </areas>
   <!--userchart label-->
   <labels>
-    <label name="NAV IV 0986/26" description="NAV IV 0986/26">
+    <label name="NAV IV 0995/26" description="NAV IV 0995/26">
       <position>
-        <vertex id="1" latitude="10.785000" longitude="-75.266667"/>
+        <vertex id="1" latitude="41.713333" longitude="-70.505000"/>
       </position>
-      <attribute labelStyle="2" labelText="NAV IV 0986/26"/>
+      <attribute labelStyle="2" labelText="NAV IV 0995/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV IV 0994/26" description="NAV IV 0994/26">
+      <position>
+        <vertex id="1" latitude="29.370667" longitude="-88.256000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV IV 0994/26"/>
       <type checkDanger="0" displayRadar="0"/>
     </label>
     <label name="NAV IV 0983/26" description="NAV IV 0983/26">
