@@ -1,6 +1,1101 @@
 // USER CHART SHEET exported by JRC ECDIS.
 // <<NOTE>>This strings // indicate comment column/cells. You can edit freely.
-// Navarea IV - in force - 20261014_2258
+// Navarea IV - in force - 20261015_2258
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AGOSTO 12
+19,23.000,N,092,03.100,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AGOSTO 12 - 500m safety zone
+19,23.000,N,092,03.100,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: ARGOS PLATFORM
+27,10.400,N,090,22.000,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: ARGOS PLATFORM - 500m safety zone
+27,10.400,N,090,22.000,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: ATLANTIS
+19,23.900,N,092,02.300,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: ATLANTIS - 500m safety zone
+19,23.900,N,092,02.300,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AUGER TLP
+27,32.700,N,092,26.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AUGER TLP - 500m safety zone
+27,32.700,N,092,26.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: BLUE EAGLE
+18,31.800,N,093,20.300,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: BLUE EAGLE - 500m safety zone
+18,31.800,N,093,20.300,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: BORR RAN
+18,20.400,N,093,53.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: BORR RAN - 500m safety zone
+18,20.400,N,093,53.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: BORR SIF
+07,08.300,N,055,41.100,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: BORR SIF - 500m safety zone
+07,08.300,N,055,41.100,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: BP ATLANTIS PLATFORM
+27,11.700,N,090,01.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: BP ATLANTIS PLATFORM - 500m safety zone
+27,11.700,N,090,01.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: CAMPECHE
+19,33.700,N,092,11.000,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: CAMPECHE - 500m safety zone
+19,33.700,N,092,11.000,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: CENTENARIO GR
+21,07.700,N,097,08.100,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: CENTENARIO GR - 500m safety zone
+21,07.700,N,097,08.100,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: CHIHUAHUA
+19,17.700,N,091,57.500,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: CHIHUAHUA - 500m safety zone
+19,17.700,N,091,57.500,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: CME I
+19,34.600,N,092,02.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: CME I - 500m safety zone
+19,34.600,N,092,02.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: CME II
+18,34.400,N,092,46.200,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: CME II - 500m safety zone
+18,34.400,N,092,46.200,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: COATZACOALCOS
+18,14.000,N,094,12.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: COATZACOALCOS - 500m safety zone
+18,14.000,N,094,12.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: CPOC MAGNOLIA
+27,12.200,N,092,12.200,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: CPOC MAGNOLIA - 500m safety zone
+27,12.200,N,092,12.200,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: DEEPWATER ATLAS
+26,40.100,N,091,33.500,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: DEEPWATER ATLAS - 500m safety zone
+26,40.100,N,091,33.500,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: DEEPWATER CONQUEROR
+27,19.000,N,090,45.100,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: DEEPWATER CONQUEROR - 500m safety zone
+27,19.000,N,090,45.100,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: DEEPWATER INVICTUS
+26,40.700,N,092,34.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: DEEPWATER INVICTUS - 500m safety zone
+26,40.700,N,092,34.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: DEEPWATER POSEIDON
+26,10.500,N,094,46.400,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: DEEPWATER POSEIDON - 500m safety zone
+26,10.500,N,094,46.400,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: DEEPWATER THALASSA
+25,45.000,N,095,24.300,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: DEEPWATER THALASSA - 500m safety zone
+25,45.000,N,095,24.300,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: DEEPWATER TITAN
+27,09.100,N,091,12.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: DEEPWATER TITAN - 500m safety zone
+27,09.100,N,091,12.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: DEFENDER
+18,28.600,N,094,01.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: DEFENDER - 500m safety zone
+18,28.600,N,094,01.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: DEVELOPMENT DRILLER III
+10,38.500,N,061,39.000,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: DEVELOPMENT DRILLER III - 500m safety zone
+10,38.500,N,061,39.000,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: ERREA WITTU
+08,00.300,N,056,50.400,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: ERREA WITTU - 500m safety zone
+08,00.300,N,056,50.400,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: ESSAR WILDCAT
+18,51.500,N,091,45.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: ESSAR WILDCAT - 500m safety zone
+18,51.500,N,091,45.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: FRIDA I
+19,36.100,N,092,31.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: FRIDA I - 500m safety zone
+19,36.100,N,092,31.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: GALAR
+18,44.500,N,093,07.200,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: GALAR - 500m safety zone
+18,44.500,N,093,07.200,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: GERSEMI
+19,02.500,N,092,14.800,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: GERSEMI - 500m safety zone
+19,02.500,N,092,14.800,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: GULF DRILLER VI
+19,23.100,N,092,20.800,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: GULF DRILLER VI - 500m safety zone
+19,23.100,N,092,20.800,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: GULF DRILLER VIII
+18,29.900,N,094,00.400,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: GULF DRILLER VIII - 500m safety zone
+18,29.900,N,094,00.400,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: H&P RIG 205
+26,06.800,N,094,53.200,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: H&P RIG 205 - 500m safety zone
+26,06.800,N,094,53.200,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: HILD
+18,49.000,N,091,46.000,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: HILD - 500m safety zone
+18,49.000,N,091,46.000,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: INDEPENDENCIA 1
+19,02.500,N,092,26.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: INDEPENDENCIA 1 - 500m safety zone
+19,02.500,N,092,26.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: INDEPENDENCIA 2
+12,23.200,N,070,08.500,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: INDEPENDENCIA 2 - 500m safety zone
+12,23.200,N,070,08.500,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: IOLAIR
+19,36.000,N,092,14.100,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: IOLAIR - 500m safety zone
+19,36.000,N,092,14.100,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: JACK ST MALO
+26,14.100,N,091,15.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: JACK ST MALO - 500m safety zone
+26,14.100,N,091,15.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: JOE DOUGLAS
+09,59.900,N,060,31.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: JOE DOUGLAS - 500m safety zone
+09,59.900,N,060,31.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: KUKULKAN
+18,16.400,N,094,03.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: KUKULKAN - 500m safety zone
+18,16.400,N,094,03.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: LA COVADONGA
+19,29.300,N,091,57.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: LA COVADONGA - 500m safety zone
+19,29.300,N,091,57.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: LA SANTA MARIA
+18,36.800,N,093,17.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: LA SANTA MARIA - 500m safety zone
+18,36.800,N,093,17.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: LIZA DESTINY
+08,00.700,N,056,59.500,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: LIZA DESTINY - 500m safety zone
+08,00.700,N,056,59.500,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: LIZA UNITY
+08,00.600,N,056,54.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: LIZA UNITY - 500m safety zone
+08,00.600,N,056,54.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: MAD DOG
+27,11.300,N,090,16.100,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: MAD DOG - 500m safety zone
+27,11.300,N,090,16.100,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: MARLIN TLP
+29,06.500,N,087,56.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: MARLIN TLP - 500m safety zone
+29,06.500,N,087,56.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: MARS TLP
+28,10.400,N,089,13.400,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: MARS TLP - 500m safety zone
+28,10.400,N,089,13.400,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: MAZU
+18,18.900,N,093,49.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: MAZU - 500m safety zone
+18,18.900,N,093,49.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: MIAMTE MV34
+18,24.300,N,093,46.200,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: MIAMTE MV34 - 500m safety zone
+18,24.300,N,093,46.200,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: NABARIMA
+10,14.800,N,062,09.000,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: NABARIMA - 500m safety zone
+10,14.800,N,062,09.000,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: NFE PIONEER III
+22,39.200,N,097,40.800,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: NFE PIONEER III - 500m safety zone
+22,39.200,N,097,40.800,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: NJORD
+19,15.900,N,092,26.200,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: NJORD - 500m safety zone
+19,15.900,N,092,26.200,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: NOBLE BLACKHAWK
+27,13.400,N,090,58.300,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: NOBLE BLACKHAWK - 500m safety zone
+27,13.400,N,090,58.300,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: NOBLE BLACKLION
+27,08.800,N,090,19.100,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: NOBLE BLACKLION - 500m safety zone
+27,08.800,N,090,19.100,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: NOBLE DEVELOPER
+07,16.700,N,055,47.100,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: NOBLE DEVELOPER - 500m safety zone
+07,16.700,N,055,47.100,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: NOBLE GLOBETROTTER II
+28,51.400,N,090,07.400,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: NOBLE GLOBETROTTER II - 500m safety zone
+28,51.400,N,090,07.400,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: NOBLE STANLEY LAFOSSE
+27,29.600,N,090,03.500,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: NOBLE STANLEY LAFOSSE - 500m safety zone
+27,29.600,N,090,03.500,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: OLYMPUS N88
+28,09.600,N,089,12.800,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: OLYMPUS N88 - 500m safety zone
+28,09.600,N,089,12.800,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: ONE GUYANA
+07,57.400,N,056,43.000,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: ONE GUYANA - 500m safety zone
+07,57.400,N,056,43.000,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: PAPALOAPAN
+19,33.400,N,092,12.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: PAPALOAPAN - 500m safety zone
+19,33.400,N,092,12.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: PERRO NEGRO 10
+18,20.200,N,093,52.200,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: PERRO NEGRO 10 - 500m safety zone
+18,20.200,N,093,52.200,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: PIONEER
+26,41.700,N,090,30.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: PIONEER - 500m safety zone
+26,41.700,N,090,30.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: PROSPERITY
+08,11.700,N,057,00.200,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: PROSPERITY - 500m safety zone
+08,11.700,N,057,00.200,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: (NEW POSITION)   Q4000
+28,34.600,N,088,14.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: (NEW POSITION)   Q4000 - 500m safety zone
+28,34.600,N,088,14.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: (NEW POSITION)   Q5000
+27,28.500,N,090,33.400,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: (NEW POSITION)   Q5000 - 500m safety zone
+27,28.500,N,090,33.400,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: SANDUNGA
+18,52.900,N,091,49.000,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: SANDUNGA - 500m safety zone
+18,52.900,N,091,49.000,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: SEAROSE FPSO
+46,47.200,N,048,00.800,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: SEAROSE FPSO - 500m safety zone
+46,47.200,N,048,00.800,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: SEVAN LOUISIANA
+28,39.900,N,090,01.800,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: SEVAN LOUISIANA - 500m safety zone
+28,39.900,N,090,01.800,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: SHELL WHALE
+26,13.400,N,094,40.400,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: SHELL WHALE - 500m safety zone
+26,13.400,N,094,40.400,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAA.   STENA EVOLUTION
+27,02.400,N,092,14.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAA.   STENA EVOLUTION - 500m safety zone
+27,02.400,N,092,14.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAB. TABASCO
+19,35.500,N,092,16.300,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAB. TABASCO - 500m safety zone
+19,35.500,N,092,16.300,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAC.   TAHITI SPAR
+27,19.600,N,090,42.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAC.   TAHITI SPAR - 500m safety zone
+27,19.600,N,090,42.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAD.   TERRA NOVA
+46,28.300,N,048,27.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAD.   TERRA NOVA - 500m safety zone
+46,28.300,N,048,27.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAE. THUNDER HORSE PDQ
+28,11.400,N,088,29.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAE. THUNDER HORSE PDQ - 500m safety zone
+28,11.400,N,088,29.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAF. TURRITELLA
+26,25.700,N,090,48.800,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAF. TURRITELLA - 500m safety zone
+26,25.700,N,090,48.800,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAG.   TUXPAN
+18,45.800,N,091,45.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAG.   TUXPAN - 500m safety zone
+18,45.800,N,091,45.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAH.   UXPANAPA
+18,32.400,N,093,17.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAH.   UXPANAPA - 500m safety zone
+18,32.400,N,093,17.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAJ.   VITO FPU
+28,01.500,N,089,12.600,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAJ.   VITO FPU - 500m safety zone
+28,01.500,N,089,12.600,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAK.   WEST COURAGEOUS
+19,10.300,N,092,25.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAK.   WEST COURAGEOUS - 500m safety zone
+19,10.300,N,092,25.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAL.   WEST INTREPID
+19,34.600,N,092,02.800,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAL.   WEST INTREPID - 500m safety zone
+19,34.600,N,092,02.800,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAM.   WEST NEPTUNE
+26,14.500,N,092,22.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAM.   WEST NEPTUNE - 500m safety zone
+26,14.500,N,092,22.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAN. (NEW POSITION)   WEST VELA
+26,19.200,N,092,38.700,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAN. (NEW POSITION)   WEST VELA - 500m sa
+26,19.200,N,092,38.700,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAO.   WFD 400
+28,41.000,N,090,08.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAO.   WFD 400 - 500m safety zone
+28,41.000,N,090,08.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAP. YUNUEN
+19,32.400,N,092,10.500,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAP. YUNUEN - 500m safety zone
+19,32.400,N,092,10.500,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAQ. YUUM KAK NAAB
+19,36.700,N,092,17.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAQ. YUUM KAK NAAB - 500m safety zone
+19,36.700,N,092,17.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV IV 1000/26 - RIG: AAAR. (NEW RIG) ZACATECAS
+19,29.100,N,091,57.100,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV IV 1000/26 - RIG: AAAR. (NEW RIG) ZACATECAS - 500m safety zo
+19,29.100,N,091,57.100,W,0.27
+// POLYGON
+// Comment
+// Lat,,,Lon,Add "END" to the end of vertex.
+POLYGON
+NAV IV 0999/26 SURVEY OPERATIONS IN PROGRESS UNTIL 30 NOV BY M/V
+08,14.890,N,057,35.230,W
+08,19.950,N,057,09.630,W
+08,19.950,N,056,40.110,W
+08,14.930,N,056,40.120,W
+08,09.850,N,056,35.220,W
+08,09.840,N,056,30.210,W
+07,59.810,N,056,25.290,W
+07,59.830,N,056,30.230,W
+07,40.430,N,056,25.310,W
+07,40.450,N,057,09.620,W
+08,14.890,N,057,35.230,W
+END
+// LINE_AGGREGATE
+// Comment
+// Lat,,,Lon,,,Type,Width,ColorNo,Comment
+// Add "END" to the end of vertex.
+LINE_AGGREGATE
+NAV IV 0998/26 ICEBERG LIMIT ALONG TRACKLINE JOINING 48-40.00N 0
+48,40.000,N,053,40.000,W,2,2,9,NAV IV 0998/26 ICEBERG LIMIT ALONG TRACKLINE JOINING 48-40.00N 0
+51,30.000,N,049,45.000,W,2,2,9,NAV IV 0998/26 ICEBERG LIMIT ALONG TRACKLINE JOINING 48-40.00N 0
+52,45.000,N,049,45.000,W,2,2,9,NAV IV 0998/26 ICEBERG LIMIT ALONG TRACKLINE JOINING 48-40.00N 0
+60,00.000,N,058,00.000,W,2,2,9,NAV IV 0998/26 ICEBERG LIMIT ALONG TRACKLINE JOINING 48-40.00N 0
+END
+// LINE_AGGREGATE
+// Comment
+// Lat,,,Lon,,,Type,Width,ColorNo,Comment
+// Add "END" to the end of vertex.
+LINE_AGGREGATE
+NAV IV 0998/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
+60,00.000,N,058,00.000,W,2,2,9,NAV IV 0998/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
+61,25.000,N,054,45.000,W,2,2,9,NAV IV 0998/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
+60,00.000,N,050,00.000,W,2,2,9,NAV IV 0998/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
+58,35.000,N,044,55.000,W,2,2,9,NAV IV 0998/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
+59,20.000,N,041,20.000,W,2,2,9,NAV IV 0998/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
+64,30.000,N,037,10.000,W,2,2,9,NAV IV 0998/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
+63,40.000,N,027,25.000,W,2,2,9,NAV IV 0998/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
+END
+// LINE_AGGREGATE
+// Comment
+// Lat,,,Lon,,,Type,Width,ColorNo,Comment
+// Add "END" to the end of vertex.
+LINE_AGGREGATE
+NAV IV 0998/26 WESTERN ICEBERG LIMIT ALONG TRACKLINE JOINING 51-
+51,28.000,N,057,50.000,W,2,2,9,NAV IV 0998/26 WESTERN ICEBERG LIMIT ALONG TRACKLINE JOINING 51-
+50,47.000,N,057,03.000,W,2,2,9,NAV IV 0998/26 WESTERN ICEBERG LIMIT ALONG TRACKLINE JOINING 51-
+END
+// CAUTION_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+CAUTION_SYMBOL,~WARNSY0,***,***
+NAV IV 0997/26 Zone A: UNDERWATER OPERATIONS 20 OCT THRU 25 NOV 
+07,22.220,N,055,31.360,W
+// CAUTION_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+CAUTION_SYMBOL,~WARNSY0,***,***
+NAV IV 0997/26 Zone B: UNDERWATER OPERATIONS 20 OCT THRU 25 NOV 
+07,21.840,N,055,34.030,W
+// CAUTION_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+CAUTION_SYMBOL,~WARNSY0,***,***
+NAV IV 0997/26 Zone C: UNDERWATER OPERATIONS 20 OCT THRU 25 NOV 
+07,35.490,N,054,55.940,W
+// CAUTION_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+CAUTION_SYMBOL,~WARNSY0,***,***
+NAV IV 0997/26 Zone D: UNDERWATER OPERATIONS 20 OCT THRU 25 NOV 
+07,33.280,N,054,57.370,W
+// CAUTION_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+CAUTION_SYMBOL,~WARNSY0,***,***
+NAV IV 0997/26 Zone E: UNDERWATER OPERATIONS 20 OCT THRU 25 NOV 
+07,30.160,N,055,31.140,W
+// CAUTION_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+CAUTION_SYMBOL,~WARNSY0,***,***
+NAV IV 0997/26 Zone F: UNDERWATER OPERATIONS 20 OCT THRU 25 NOV 
+07,30.190,N,055,28.570,W
 // LINE_AGGREGATE
 // Comment
 // Lat,,,Lon,,,Type,Width,ColorNo,Comment
@@ -93,40 +1188,6 @@ NAV IV 0992/26 Zone B: HAZARDOUS OPERATIONS, ROCKET LAUNCHING 19
 24,58.000,N,074,33.000,W
 26,06.000,N,076,02.000,W
 END
-// LINE_AGGREGATE
-// Comment
-// Lat,,,Lon,,,Type,Width,ColorNo,Comment
-// Add "END" to the end of vertex.
-LINE_AGGREGATE
-NAV IV 0990/26 ICEBERG LIMIT ALONG TRACKLINE JOINING 49-18.00N 0
-49,18.000,N,053,37.000,W,2,2,9,NAV IV 0990/26 ICEBERG LIMIT ALONG TRACKLINE JOINING 49-18.00N 0
-52,00.000,N,050,30.000,W,2,2,9,NAV IV 0990/26 ICEBERG LIMIT ALONG TRACKLINE JOINING 49-18.00N 0
-53,30.000,N,050,30.000,W,2,2,9,NAV IV 0990/26 ICEBERG LIMIT ALONG TRACKLINE JOINING 49-18.00N 0
-60,00.000,N,058,00.000,W,2,2,9,NAV IV 0990/26 ICEBERG LIMIT ALONG TRACKLINE JOINING 49-18.00N 0
-END
-// LINE_AGGREGATE
-// Comment
-// Lat,,,Lon,,,Type,Width,ColorNo,Comment
-// Add "END" to the end of vertex.
-LINE_AGGREGATE
-NAV IV 0990/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
-60,00.000,N,058,00.000,W,2,2,9,NAV IV 0990/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
-61,25.000,N,054,45.000,W,2,2,9,NAV IV 0990/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
-60,00.000,N,050,00.000,W,2,2,9,NAV IV 0990/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
-58,35.000,N,044,55.000,W,2,2,9,NAV IV 0990/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
-59,20.000,N,041,20.000,W,2,2,9,NAV IV 0990/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
-64,30.000,N,037,10.000,W,2,2,9,NAV IV 0990/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
-63,40.000,N,027,25.000,W,2,2,9,NAV IV 0990/26 ESTIMATED ICEBERG LIMIT ALONG TRACKLINE JOINING 6
-END
-// LINE_AGGREGATE
-// Comment
-// Lat,,,Lon,,,Type,Width,ColorNo,Comment
-// Add "END" to the end of vertex.
-LINE_AGGREGATE
-NAV IV 0990/26 WESTERN ICEBERG LIMIT ALONG TRACKLINE JOINING 51-
-51,28.000,N,057,50.000,W,2,2,9,NAV IV 0990/26 WESTERN ICEBERG LIMIT ALONG TRACKLINE JOINING 51-
-50,47.000,N,057,03.000,W,2,2,9,NAV IV 0990/26 WESTERN ICEBERG LIMIT ALONG TRACKLINE JOINING 51-
-END
 // POLYGON
 // Comment
 // Lat,,,Lon,Add "END" to the end of vertex.
@@ -138,36 +1199,6 @@ NAV IV 0987/26 NAVAL OPERATIONS 130001Z TO 152359Z OCT IN AREA B
 10,29.520,N,075,53.460,W
 10,29.520,N,075,45.000,W
 END
-// CAUTION_SYMBOL,InstName
-// Comment
-// Lat,,,Lon
-CAUTION_SYMBOL,~WARNSY0,***,***
-NAV IV 0983/26 Zone A: THE FOLLOWING PORT(S) HAVE RE-OPENED: MOB
-30,41.000,N,088,07.000,W
-// CAUTION_SYMBOL,InstName
-// Comment
-// Lat,,,Lon
-CAUTION_SYMBOL,~WARNSY0,***,***
-NAV IV 0983/26 Zone B: THE FOLLOWING PORT(S) HAVE RE-OPENED: PAN
-30,09.000,N,085,40.000,W
-// CAUTION_SYMBOL,InstName
-// Comment
-// Lat,,,Lon
-CAUTION_SYMBOL,~WARNSY0,***,***
-NAV IV 0983/26 Zone C: THE FOLLOWING PORT(S) HAVE RE-OPENED: PAS
-30,21.000,N,088,34.000,W
-// CAUTION_SYMBOL,InstName
-// Comment
-// Lat,,,Lon
-CAUTION_SYMBOL,~WARNSY0,***,***
-NAV IV 0983/26 Zone D: THE FOLLOWING PORT(S) HAVE RE-OPENED: PEN
-30,24.000,N,087,13.000,W
-// CAUTION_SYMBOL,InstName
-// Comment
-// Lat,,,Lon
-CAUTION_SYMBOL,~WARNSY0,***,***
-NAV IV 0983/26 Zone E: THE FOLLOWING PORT(S) HAVE RE-OPENED: GUL
-30,24.100,N,089,04.570,W
 // CAUTION_SYMBOL,InstName
 // Comment
 // Lat,,,Lon
@@ -1239,17 +2270,6 @@ NAV IV 0877/26 PIPELINE OPERATIONS IN PROGRESS UNTIL 222200Z OCT
 10,20.720,N,060,40.740,W,2,2,9,NAV IV 0877/26 PIPELINE OPERATIONS IN PROGRESS UNTIL 222200Z OCT
 10,19.970,N,060,41.000,W,2,2,9,NAV IV 0877/26 PIPELINE OPERATIONS IN PROGRESS UNTIL 222200Z OCT
 10,20.000,N,060,41.530,W,2,2,9,NAV IV 0877/26 PIPELINE OPERATIONS IN PROGRESS UNTIL 222200Z OCT
-END
-// POLYGON
-// Comment
-// Lat,,,Lon,Add "END" to the end of vertex.
-POLYGON
-NAV IV 0870/26 HAZARDOUS OPERATIONS, SPACE DEBRIS 0111Z TO 0151Z
-05,48.000,N,052,54.000,W
-05,50.550,N,052,26.400,W
-05,12.600,N,052,40.980,W
-05,23.460,N,052,53.800,W
-05,48.000,N,052,54.000,W
 END
 // CAUTION_SYMBOL,InstName
 // Comment

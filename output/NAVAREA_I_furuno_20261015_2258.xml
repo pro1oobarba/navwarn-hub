@@ -1,0 +1,1928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--userchart node-->
+<userchart name="NAVAREA I - in force - 20261015_2258" description="" version="1.0">
+  <!--userchart line-->
+  <lines>
+  </lines>
+  <!--userchart area-->
+  <areas>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="52.132833" longitude="3.940000"/>
+        <vertex id="2" latitude="52.132747" longitude="3.941430"/>
+        <vertex id="3" latitude="52.132491" longitude="3.942805"/>
+        <vertex id="4" latitude="52.132075" longitude="3.944072"/>
+        <vertex id="5" latitude="52.131515" longitude="3.945183"/>
+        <vertex id="6" latitude="52.130833" longitude="3.946095"/>
+        <vertex id="7" latitude="52.130055" longitude="3.946772"/>
+        <vertex id="8" latitude="52.129211" longitude="3.947189"/>
+        <vertex id="9" latitude="52.128333" longitude="3.947330"/>
+        <vertex id="10" latitude="52.127455" longitude="3.947189"/>
+        <vertex id="11" latitude="52.126611" longitude="3.946772"/>
+        <vertex id="12" latitude="52.125833" longitude="3.946095"/>
+        <vertex id="13" latitude="52.125151" longitude="3.945183"/>
+        <vertex id="14" latitude="52.124592" longitude="3.944072"/>
+        <vertex id="15" latitude="52.124176" longitude="3.942805"/>
+        <vertex id="16" latitude="52.123920" longitude="3.941430"/>
+        <vertex id="17" latitude="52.123833" longitude="3.940000"/>
+        <vertex id="18" latitude="52.123920" longitude="3.938570"/>
+        <vertex id="19" latitude="52.124176" longitude="3.937195"/>
+        <vertex id="20" latitude="52.124592" longitude="3.935928"/>
+        <vertex id="21" latitude="52.125151" longitude="3.934817"/>
+        <vertex id="22" latitude="52.125833" longitude="3.933905"/>
+        <vertex id="23" latitude="52.126611" longitude="3.933228"/>
+        <vertex id="24" latitude="52.127455" longitude="3.932811"/>
+        <vertex id="25" latitude="52.128333" longitude="3.932670"/>
+        <vertex id="26" latitude="52.129211" longitude="3.932811"/>
+        <vertex id="27" latitude="52.130055" longitude="3.933228"/>
+        <vertex id="28" latitude="52.130833" longitude="3.933905"/>
+        <vertex id="29" latitude="52.131515" longitude="3.934817"/>
+        <vertex id="30" latitude="52.132075" longitude="3.935928"/>
+        <vertex id="31" latitude="52.132491" longitude="3.937195"/>
+        <vertex id="32" latitude="52.132747" longitude="3.938570"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="53.066167" longitude="3.538333"/>
+        <vertex id="2" latitude="53.066080" longitude="3.539794"/>
+        <vertex id="3" latitude="53.065824" longitude="3.541199"/>
+        <vertex id="4" latitude="53.065408" longitude="3.542493"/>
+        <vertex id="5" latitude="53.064849" longitude="3.543628"/>
+        <vertex id="6" latitude="53.064167" longitude="3.544559"/>
+        <vertex id="7" latitude="53.063389" longitude="3.545251"/>
+        <vertex id="8" latitude="53.062545" longitude="3.545678"/>
+        <vertex id="9" latitude="53.061667" longitude="3.545821"/>
+        <vertex id="10" latitude="53.060789" longitude="3.545678"/>
+        <vertex id="11" latitude="53.059945" longitude="3.545251"/>
+        <vertex id="12" latitude="53.059167" longitude="3.544559"/>
+        <vertex id="13" latitude="53.058485" longitude="3.543628"/>
+        <vertex id="14" latitude="53.057925" longitude="3.542493"/>
+        <vertex id="15" latitude="53.057509" longitude="3.541199"/>
+        <vertex id="16" latitude="53.057253" longitude="3.539794"/>
+        <vertex id="17" latitude="53.057167" longitude="3.538333"/>
+        <vertex id="18" latitude="53.057253" longitude="3.536872"/>
+        <vertex id="19" latitude="53.057509" longitude="3.535468"/>
+        <vertex id="20" latitude="53.057925" longitude="3.534173"/>
+        <vertex id="21" latitude="53.058485" longitude="3.533038"/>
+        <vertex id="22" latitude="53.059167" longitude="3.532107"/>
+        <vertex id="23" latitude="53.059945" longitude="3.531415"/>
+        <vertex id="24" latitude="53.060789" longitude="3.530989"/>
+        <vertex id="25" latitude="53.061667" longitude="3.530845"/>
+        <vertex id="26" latitude="53.062545" longitude="3.530989"/>
+        <vertex id="27" latitude="53.063389" longitude="3.531415"/>
+        <vertex id="28" latitude="53.064167" longitude="3.532107"/>
+        <vertex id="29" latitude="53.064849" longitude="3.533038"/>
+        <vertex id="30" latitude="53.065408" longitude="3.534173"/>
+        <vertex id="31" latitude="53.065824" longitude="3.535468"/>
+        <vertex id="32" latitude="53.066080" longitude="3.536872"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="53.122833" longitude="2.105000"/>
+        <vertex id="2" latitude="53.122747" longitude="2.106463"/>
+        <vertex id="3" latitude="53.122491" longitude="2.107869"/>
+        <vertex id="4" latitude="53.122075" longitude="2.109166"/>
+        <vertex id="5" latitude="53.121515" longitude="2.110302"/>
+        <vertex id="6" latitude="53.120833" longitude="2.111234"/>
+        <vertex id="7" latitude="53.120055" longitude="2.111927"/>
+        <vertex id="8" latitude="53.119211" longitude="2.112354"/>
+        <vertex id="9" latitude="53.118333" longitude="2.112498"/>
+        <vertex id="10" latitude="53.117455" longitude="2.112354"/>
+        <vertex id="11" latitude="53.116611" longitude="2.111927"/>
+        <vertex id="12" latitude="53.115833" longitude="2.111234"/>
+        <vertex id="13" latitude="53.115151" longitude="2.110302"/>
+        <vertex id="14" latitude="53.114592" longitude="2.109166"/>
+        <vertex id="15" latitude="53.114176" longitude="2.107869"/>
+        <vertex id="16" latitude="53.113920" longitude="2.106463"/>
+        <vertex id="17" latitude="53.113833" longitude="2.105000"/>
+        <vertex id="18" latitude="53.113920" longitude="2.103537"/>
+        <vertex id="19" latitude="53.114176" longitude="2.102131"/>
+        <vertex id="20" latitude="53.114592" longitude="2.100834"/>
+        <vertex id="21" latitude="53.115151" longitude="2.099698"/>
+        <vertex id="22" latitude="53.115833" longitude="2.098766"/>
+        <vertex id="23" latitude="53.116611" longitude="2.098073"/>
+        <vertex id="24" latitude="53.117455" longitude="2.097646"/>
+        <vertex id="25" latitude="53.118333" longitude="2.097502"/>
+        <vertex id="26" latitude="53.119211" longitude="2.097646"/>
+        <vertex id="27" latitude="53.120055" longitude="2.098073"/>
+        <vertex id="28" latitude="53.120833" longitude="2.098766"/>
+        <vertex id="29" latitude="53.121515" longitude="2.099698"/>
+        <vertex id="30" latitude="53.122075" longitude="2.100834"/>
+        <vertex id="31" latitude="53.122491" longitude="2.102131"/>
+        <vertex id="32" latitude="53.122747" longitude="2.103537"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="53.246167" longitude="4.081667"/>
+        <vertex id="2" latitude="53.246080" longitude="4.083134"/>
+        <vertex id="3" latitude="53.245824" longitude="4.084544"/>
+        <vertex id="4" latitude="53.245408" longitude="4.085844"/>
+        <vertex id="5" latitude="53.244849" longitude="4.086984"/>
+        <vertex id="6" latitude="53.244167" longitude="4.087919"/>
+        <vertex id="7" latitude="53.243389" longitude="4.088614"/>
+        <vertex id="8" latitude="53.242545" longitude="4.089042"/>
+        <vertex id="9" latitude="53.241667" longitude="4.089186"/>
+        <vertex id="10" latitude="53.240789" longitude="4.089042"/>
+        <vertex id="11" latitude="53.239945" longitude="4.088614"/>
+        <vertex id="12" latitude="53.239167" longitude="4.087919"/>
+        <vertex id="13" latitude="53.238485" longitude="4.086984"/>
+        <vertex id="14" latitude="53.237925" longitude="4.085844"/>
+        <vertex id="15" latitude="53.237509" longitude="4.084544"/>
+        <vertex id="16" latitude="53.237253" longitude="4.083134"/>
+        <vertex id="17" latitude="53.237167" longitude="4.081667"/>
+        <vertex id="18" latitude="53.237253" longitude="4.080200"/>
+        <vertex id="19" latitude="53.237509" longitude="4.078789"/>
+        <vertex id="20" latitude="53.237925" longitude="4.077489"/>
+        <vertex id="21" latitude="53.238485" longitude="4.076350"/>
+        <vertex id="22" latitude="53.239167" longitude="4.075414"/>
+        <vertex id="23" latitude="53.239945" longitude="4.074720"/>
+        <vertex id="24" latitude="53.240789" longitude="4.074292"/>
+        <vertex id="25" latitude="53.241667" longitude="4.074147"/>
+        <vertex id="26" latitude="53.242545" longitude="4.074292"/>
+        <vertex id="27" latitude="53.243389" longitude="4.074720"/>
+        <vertex id="28" latitude="53.244167" longitude="4.075414"/>
+        <vertex id="29" latitude="53.244849" longitude="4.076350"/>
+        <vertex id="30" latitude="53.245408" longitude="4.077489"/>
+        <vertex id="31" latitude="53.245824" longitude="4.078789"/>
+        <vertex id="32" latitude="53.246080" longitude="4.080200"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="53.294500" longitude="1.110000"/>
+        <vertex id="2" latitude="53.294414" longitude="1.111469"/>
+        <vertex id="3" latitude="53.294157" longitude="1.112881"/>
+        <vertex id="4" latitude="53.293742" longitude="1.114182"/>
+        <vertex id="5" latitude="53.293182" longitude="1.115323"/>
+        <vertex id="6" latitude="53.292500" longitude="1.116259"/>
+        <vertex id="7" latitude="53.291722" longitude="1.116955"/>
+        <vertex id="8" latitude="53.290878" longitude="1.117383"/>
+        <vertex id="9" latitude="53.290000" longitude="1.117528"/>
+        <vertex id="10" latitude="53.289122" longitude="1.117383"/>
+        <vertex id="11" latitude="53.288278" longitude="1.116955"/>
+        <vertex id="12" latitude="53.287500" longitude="1.116259"/>
+        <vertex id="13" latitude="53.286818" longitude="1.115323"/>
+        <vertex id="14" latitude="53.286258" longitude="1.114182"/>
+        <vertex id="15" latitude="53.285843" longitude="1.112881"/>
+        <vertex id="16" latitude="53.285586" longitude="1.111469"/>
+        <vertex id="17" latitude="53.285500" longitude="1.110000"/>
+        <vertex id="18" latitude="53.285586" longitude="1.108531"/>
+        <vertex id="19" latitude="53.285843" longitude="1.107119"/>
+        <vertex id="20" latitude="53.286258" longitude="1.105818"/>
+        <vertex id="21" latitude="53.286818" longitude="1.104677"/>
+        <vertex id="22" latitude="53.287500" longitude="1.103741"/>
+        <vertex id="23" latitude="53.288278" longitude="1.103045"/>
+        <vertex id="24" latitude="53.289122" longitude="1.102617"/>
+        <vertex id="25" latitude="53.290000" longitude="1.102472"/>
+        <vertex id="26" latitude="53.290878" longitude="1.102617"/>
+        <vertex id="27" latitude="53.291722" longitude="1.103045"/>
+        <vertex id="28" latitude="53.292500" longitude="1.103741"/>
+        <vertex id="29" latitude="53.293182" longitude="1.104677"/>
+        <vertex id="30" latitude="53.293742" longitude="1.105818"/>
+        <vertex id="31" latitude="53.294157" longitude="1.107119"/>
+        <vertex id="32" latitude="53.294414" longitude="1.108531"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="53.362833" longitude="3.983333"/>
+        <vertex id="2" latitude="53.362747" longitude="3.984804"/>
+        <vertex id="3" latitude="53.362491" longitude="3.986219"/>
+        <vertex id="4" latitude="53.362075" longitude="3.987522"/>
+        <vertex id="5" latitude="53.361515" longitude="3.988665"/>
+        <vertex id="6" latitude="53.360833" longitude="3.989603"/>
+        <vertex id="7" latitude="53.360055" longitude="3.990299"/>
+        <vertex id="8" latitude="53.359211" longitude="3.990729"/>
+        <vertex id="9" latitude="53.358333" longitude="3.990873"/>
+        <vertex id="10" latitude="53.357455" longitude="3.990729"/>
+        <vertex id="11" latitude="53.356611" longitude="3.990299"/>
+        <vertex id="12" latitude="53.355833" longitude="3.989603"/>
+        <vertex id="13" latitude="53.355151" longitude="3.988665"/>
+        <vertex id="14" latitude="53.354592" longitude="3.987522"/>
+        <vertex id="15" latitude="53.354176" longitude="3.986219"/>
+        <vertex id="16" latitude="53.353920" longitude="3.984804"/>
+        <vertex id="17" latitude="53.353833" longitude="3.983333"/>
+        <vertex id="18" latitude="53.353920" longitude="3.981862"/>
+        <vertex id="19" latitude="53.354176" longitude="3.980448"/>
+        <vertex id="20" latitude="53.354592" longitude="3.979144"/>
+        <vertex id="21" latitude="53.355151" longitude="3.978002"/>
+        <vertex id="22" latitude="53.355833" longitude="3.977064"/>
+        <vertex id="23" latitude="53.356611" longitude="3.976367"/>
+        <vertex id="24" latitude="53.357455" longitude="3.975938"/>
+        <vertex id="25" latitude="53.358333" longitude="3.975793"/>
+        <vertex id="26" latitude="53.359211" longitude="3.975938"/>
+        <vertex id="27" latitude="53.360055" longitude="3.976367"/>
+        <vertex id="28" latitude="53.360833" longitude="3.977064"/>
+        <vertex id="29" latitude="53.361515" longitude="3.978002"/>
+        <vertex id="30" latitude="53.362075" longitude="3.979144"/>
+        <vertex id="31" latitude="53.362491" longitude="3.980448"/>
+        <vertex id="32" latitude="53.362747" longitude="3.981862"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="53.592833" longitude="2.295000"/>
+        <vertex id="2" latitude="53.592747" longitude="2.296479"/>
+        <vertex id="3" latitude="53.592491" longitude="2.297901"/>
+        <vertex id="4" latitude="53.592075" longitude="2.299212"/>
+        <vertex id="5" latitude="53.591515" longitude="2.300361"/>
+        <vertex id="6" latitude="53.590833" longitude="2.301303"/>
+        <vertex id="7" latitude="53.590055" longitude="2.302004"/>
+        <vertex id="8" latitude="53.589211" longitude="2.302435"/>
+        <vertex id="9" latitude="53.588333" longitude="2.302581"/>
+        <vertex id="10" latitude="53.587455" longitude="2.302435"/>
+        <vertex id="11" latitude="53.586611" longitude="2.302004"/>
+        <vertex id="12" latitude="53.585833" longitude="2.301303"/>
+        <vertex id="13" latitude="53.585151" longitude="2.300361"/>
+        <vertex id="14" latitude="53.584592" longitude="2.299212"/>
+        <vertex id="15" latitude="53.584176" longitude="2.297901"/>
+        <vertex id="16" latitude="53.583920" longitude="2.296479"/>
+        <vertex id="17" latitude="53.583833" longitude="2.295000"/>
+        <vertex id="18" latitude="53.583920" longitude="2.293521"/>
+        <vertex id="19" latitude="53.584176" longitude="2.292099"/>
+        <vertex id="20" latitude="53.584592" longitude="2.290788"/>
+        <vertex id="21" latitude="53.585151" longitude="2.289639"/>
+        <vertex id="22" latitude="53.585833" longitude="2.288697"/>
+        <vertex id="23" latitude="53.586611" longitude="2.287996"/>
+        <vertex id="24" latitude="53.587455" longitude="2.287565"/>
+        <vertex id="25" latitude="53.588333" longitude="2.287419"/>
+        <vertex id="26" latitude="53.589211" longitude="2.287565"/>
+        <vertex id="27" latitude="53.590055" longitude="2.287996"/>
+        <vertex id="28" latitude="53.590833" longitude="2.288697"/>
+        <vertex id="29" latitude="53.591515" longitude="2.289639"/>
+        <vertex id="30" latitude="53.592075" longitude="2.290788"/>
+        <vertex id="31" latitude="53.592491" longitude="2.292099"/>
+        <vertex id="32" latitude="53.592747" longitude="2.293521"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="53.689500" longitude="6.360000"/>
+        <vertex id="2" latitude="53.689414" longitude="6.361482"/>
+        <vertex id="3" latitude="53.689157" longitude="6.362908"/>
+        <vertex id="4" latitude="53.688742" longitude="6.364221"/>
+        <vertex id="5" latitude="53.688182" longitude="6.365373"/>
+        <vertex id="6" latitude="53.687500" longitude="6.366318"/>
+        <vertex id="7" latitude="53.686722" longitude="6.367020"/>
+        <vertex id="8" latitude="53.685878" longitude="6.367452"/>
+        <vertex id="9" latitude="53.685000" longitude="6.367598"/>
+        <vertex id="10" latitude="53.684122" longitude="6.367452"/>
+        <vertex id="11" latitude="53.683278" longitude="6.367020"/>
+        <vertex id="12" latitude="53.682500" longitude="6.366318"/>
+        <vertex id="13" latitude="53.681818" longitude="6.365373"/>
+        <vertex id="14" latitude="53.681258" longitude="6.364221"/>
+        <vertex id="15" latitude="53.680843" longitude="6.362908"/>
+        <vertex id="16" latitude="53.680586" longitude="6.361482"/>
+        <vertex id="17" latitude="53.680500" longitude="6.360000"/>
+        <vertex id="18" latitude="53.680586" longitude="6.358518"/>
+        <vertex id="19" latitude="53.680843" longitude="6.357092"/>
+        <vertex id="20" latitude="53.681258" longitude="6.355779"/>
+        <vertex id="21" latitude="53.681818" longitude="6.354627"/>
+        <vertex id="22" latitude="53.682500" longitude="6.353682"/>
+        <vertex id="23" latitude="53.683278" longitude="6.352980"/>
+        <vertex id="24" latitude="53.684122" longitude="6.352548"/>
+        <vertex id="25" latitude="53.685000" longitude="6.352402"/>
+        <vertex id="26" latitude="53.685878" longitude="6.352548"/>
+        <vertex id="27" latitude="53.686722" longitude="6.352980"/>
+        <vertex id="28" latitude="53.687500" longitude="6.353682"/>
+        <vertex id="29" latitude="53.688182" longitude="6.354627"/>
+        <vertex id="30" latitude="53.688742" longitude="6.355779"/>
+        <vertex id="31" latitude="53.689157" longitude="6.357092"/>
+        <vertex id="32" latitude="53.689414" longitude="6.358518"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="54.206167" longitude="1.115000"/>
+        <vertex id="2" latitude="54.206080" longitude="1.116501"/>
+        <vertex id="3" latitude="54.205824" longitude="1.117944"/>
+        <vertex id="4" latitude="54.205408" longitude="1.119274"/>
+        <vertex id="5" latitude="54.204849" longitude="1.120440"/>
+        <vertex id="6" latitude="54.204167" longitude="1.121397"/>
+        <vertex id="7" latitude="54.203389" longitude="1.122108"/>
+        <vertex id="8" latitude="54.202545" longitude="1.122545"/>
+        <vertex id="9" latitude="54.201667" longitude="1.122693"/>
+        <vertex id="10" latitude="54.200789" longitude="1.122545"/>
+        <vertex id="11" latitude="54.199945" longitude="1.122108"/>
+        <vertex id="12" latitude="54.199167" longitude="1.121397"/>
+        <vertex id="13" latitude="54.198485" longitude="1.120440"/>
+        <vertex id="14" latitude="54.197925" longitude="1.119274"/>
+        <vertex id="15" latitude="54.197509" longitude="1.117944"/>
+        <vertex id="16" latitude="54.197253" longitude="1.116501"/>
+        <vertex id="17" latitude="54.197167" longitude="1.115000"/>
+        <vertex id="18" latitude="54.197253" longitude="1.113499"/>
+        <vertex id="19" latitude="54.197509" longitude="1.112056"/>
+        <vertex id="20" latitude="54.197925" longitude="1.110726"/>
+        <vertex id="21" latitude="54.198485" longitude="1.109560"/>
+        <vertex id="22" latitude="54.199167" longitude="1.108603"/>
+        <vertex id="23" latitude="54.199945" longitude="1.107892"/>
+        <vertex id="24" latitude="54.200789" longitude="1.107455"/>
+        <vertex id="25" latitude="54.201667" longitude="1.107307"/>
+        <vertex id="26" latitude="54.202545" longitude="1.107455"/>
+        <vertex id="27" latitude="54.203389" longitude="1.107892"/>
+        <vertex id="28" latitude="54.204167" longitude="1.108603"/>
+        <vertex id="29" latitude="54.204849" longitude="1.109560"/>
+        <vertex id="30" latitude="54.205408" longitude="1.110726"/>
+        <vertex id="31" latitude="54.205824" longitude="1.112056"/>
+        <vertex id="32" latitude="54.206080" longitude="1.113499"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="54.574500" longitude="2.293333"/>
+        <vertex id="2" latitude="54.574414" longitude="2.294848"/>
+        <vertex id="3" latitude="54.574157" longitude="2.296304"/>
+        <vertex id="4" latitude="54.573742" longitude="2.297646"/>
+        <vertex id="5" latitude="54.573182" longitude="2.298822"/>
+        <vertex id="6" latitude="54.572500" longitude="2.299788"/>
+        <vertex id="7" latitude="54.571722" longitude="2.300505"/>
+        <vertex id="8" latitude="54.570878" longitude="2.300947"/>
+        <vertex id="9" latitude="54.570000" longitude="2.301096"/>
+        <vertex id="10" latitude="54.569122" longitude="2.300947"/>
+        <vertex id="11" latitude="54.568278" longitude="2.300505"/>
+        <vertex id="12" latitude="54.567500" longitude="2.299788"/>
+        <vertex id="13" latitude="54.566818" longitude="2.298822"/>
+        <vertex id="14" latitude="54.566258" longitude="2.297646"/>
+        <vertex id="15" latitude="54.565843" longitude="2.296304"/>
+        <vertex id="16" latitude="54.565586" longitude="2.294848"/>
+        <vertex id="17" latitude="54.565500" longitude="2.293333"/>
+        <vertex id="18" latitude="54.565586" longitude="2.291819"/>
+        <vertex id="19" latitude="54.565843" longitude="2.290363"/>
+        <vertex id="20" latitude="54.566258" longitude="2.289021"/>
+        <vertex id="21" latitude="54.566818" longitude="2.287844"/>
+        <vertex id="22" latitude="54.567500" longitude="2.286879"/>
+        <vertex id="23" latitude="54.568278" longitude="2.286162"/>
+        <vertex id="24" latitude="54.569122" longitude="2.285720"/>
+        <vertex id="25" latitude="54.570000" longitude="2.285571"/>
+        <vertex id="26" latitude="54.570878" longitude="2.285720"/>
+        <vertex id="27" latitude="54.571722" longitude="2.286162"/>
+        <vertex id="28" latitude="54.572500" longitude="2.286879"/>
+        <vertex id="29" latitude="54.573182" longitude="2.287844"/>
+        <vertex id="30" latitude="54.573742" longitude="2.289021"/>
+        <vertex id="31" latitude="54.574157" longitude="2.290363"/>
+        <vertex id="32" latitude="54.574414" longitude="2.291819"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="54.599500" longitude="0.430000"/>
+        <vertex id="2" latitude="54.599414" longitude="0.431515"/>
+        <vertex id="3" latitude="54.599157" longitude="0.432972"/>
+        <vertex id="4" latitude="54.598742" longitude="0.434315"/>
+        <vertex id="5" latitude="54.598182" longitude="0.435492"/>
+        <vertex id="6" latitude="54.597500" longitude="0.436458"/>
+        <vertex id="7" latitude="54.596722" longitude="0.437176"/>
+        <vertex id="8" latitude="54.595878" longitude="0.437618"/>
+        <vertex id="9" latitude="54.595000" longitude="0.437767"/>
+        <vertex id="10" latitude="54.594122" longitude="0.437618"/>
+        <vertex id="11" latitude="54.593278" longitude="0.437176"/>
+        <vertex id="12" latitude="54.592500" longitude="0.436458"/>
+        <vertex id="13" latitude="54.591818" longitude="0.435492"/>
+        <vertex id="14" latitude="54.591258" longitude="0.434315"/>
+        <vertex id="15" latitude="54.590843" longitude="0.432972"/>
+        <vertex id="16" latitude="54.590586" longitude="0.431515"/>
+        <vertex id="17" latitude="54.590500" longitude="0.430000"/>
+        <vertex id="18" latitude="54.590586" longitude="0.428485"/>
+        <vertex id="19" latitude="54.590843" longitude="0.427028"/>
+        <vertex id="20" latitude="54.591258" longitude="0.425685"/>
+        <vertex id="21" latitude="54.591818" longitude="0.424508"/>
+        <vertex id="22" latitude="54.592500" longitude="0.423542"/>
+        <vertex id="23" latitude="54.593278" longitude="0.422824"/>
+        <vertex id="24" latitude="54.594122" longitude="0.422382"/>
+        <vertex id="25" latitude="54.595000" longitude="0.422233"/>
+        <vertex id="26" latitude="54.595878" longitude="0.422382"/>
+        <vertex id="27" latitude="54.596722" longitude="0.422824"/>
+        <vertex id="28" latitude="54.597500" longitude="0.423542"/>
+        <vertex id="29" latitude="54.598182" longitude="0.424508"/>
+        <vertex id="30" latitude="54.598742" longitude="0.425685"/>
+        <vertex id="31" latitude="54.599157" longitude="0.427028"/>
+        <vertex id="32" latitude="54.599414" longitude="0.428485"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="56.254500" longitude="3.348333"/>
+        <vertex id="2" latitude="56.254414" longitude="3.349914"/>
+        <vertex id="3" latitude="56.254157" longitude="3.351433"/>
+        <vertex id="4" latitude="56.253742" longitude="3.352833"/>
+        <vertex id="5" latitude="56.253182" longitude="3.354061"/>
+        <vertex id="6" latitude="56.252500" longitude="3.355068"/>
+        <vertex id="7" latitude="56.251722" longitude="3.355817"/>
+        <vertex id="8" latitude="56.250878" longitude="3.356277"/>
+        <vertex id="9" latitude="56.250000" longitude="3.356433"/>
+        <vertex id="10" latitude="56.249122" longitude="3.356277"/>
+        <vertex id="11" latitude="56.248278" longitude="3.355817"/>
+        <vertex id="12" latitude="56.247500" longitude="3.355068"/>
+        <vertex id="13" latitude="56.246818" longitude="3.354061"/>
+        <vertex id="14" latitude="56.246258" longitude="3.352833"/>
+        <vertex id="15" latitude="56.245843" longitude="3.351433"/>
+        <vertex id="16" latitude="56.245586" longitude="3.349914"/>
+        <vertex id="17" latitude="56.245500" longitude="3.348333"/>
+        <vertex id="18" latitude="56.245586" longitude="3.346753"/>
+        <vertex id="19" latitude="56.245843" longitude="3.345234"/>
+        <vertex id="20" latitude="56.246258" longitude="3.343833"/>
+        <vertex id="21" latitude="56.246818" longitude="3.342606"/>
+        <vertex id="22" latitude="56.247500" longitude="3.341599"/>
+        <vertex id="23" latitude="56.248278" longitude="3.340850"/>
+        <vertex id="24" latitude="56.249122" longitude="3.340389"/>
+        <vertex id="25" latitude="56.250000" longitude="3.340234"/>
+        <vertex id="26" latitude="56.250878" longitude="3.340389"/>
+        <vertex id="27" latitude="56.251722" longitude="3.340850"/>
+        <vertex id="28" latitude="56.252500" longitude="3.341599"/>
+        <vertex id="29" latitude="56.253182" longitude="3.342606"/>
+        <vertex id="30" latitude="56.253742" longitude="3.343833"/>
+        <vertex id="31" latitude="56.254157" longitude="3.345234"/>
+        <vertex id="32" latitude="56.254414" longitude="3.346753"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="56.279500" longitude="3.400000"/>
+        <vertex id="2" latitude="56.279414" longitude="3.401581"/>
+        <vertex id="3" latitude="56.279157" longitude="3.403102"/>
+        <vertex id="4" latitude="56.278742" longitude="3.404503"/>
+        <vertex id="5" latitude="56.278182" longitude="3.405731"/>
+        <vertex id="6" latitude="56.277500" longitude="3.406739"/>
+        <vertex id="7" latitude="56.276722" longitude="3.407488"/>
+        <vertex id="8" latitude="56.275878" longitude="3.407949"/>
+        <vertex id="9" latitude="56.275000" longitude="3.408105"/>
+        <vertex id="10" latitude="56.274122" longitude="3.407949"/>
+        <vertex id="11" latitude="56.273278" longitude="3.407488"/>
+        <vertex id="12" latitude="56.272500" longitude="3.406739"/>
+        <vertex id="13" latitude="56.271818" longitude="3.405731"/>
+        <vertex id="14" latitude="56.271258" longitude="3.404503"/>
+        <vertex id="15" latitude="56.270843" longitude="3.403102"/>
+        <vertex id="16" latitude="56.270586" longitude="3.401581"/>
+        <vertex id="17" latitude="56.270500" longitude="3.400000"/>
+        <vertex id="18" latitude="56.270586" longitude="3.398419"/>
+        <vertex id="19" latitude="56.270843" longitude="3.396898"/>
+        <vertex id="20" latitude="56.271258" longitude="3.395497"/>
+        <vertex id="21" latitude="56.271818" longitude="3.394269"/>
+        <vertex id="22" latitude="56.272500" longitude="3.393261"/>
+        <vertex id="23" latitude="56.273278" longitude="3.392512"/>
+        <vertex id="24" latitude="56.274122" longitude="3.392051"/>
+        <vertex id="25" latitude="56.275000" longitude="3.391895"/>
+        <vertex id="26" latitude="56.275878" longitude="3.392051"/>
+        <vertex id="27" latitude="56.276722" longitude="3.392512"/>
+        <vertex id="28" latitude="56.277500" longitude="3.393261"/>
+        <vertex id="29" latitude="56.278182" longitude="3.394269"/>
+        <vertex id="30" latitude="56.278742" longitude="3.395497"/>
+        <vertex id="31" latitude="56.279157" longitude="3.396898"/>
+        <vertex id="32" latitude="56.279414" longitude="3.398419"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="56.552833" longitude="3.213333"/>
+        <vertex id="2" latitude="56.552747" longitude="3.214926"/>
+        <vertex id="3" latitude="56.552491" longitude="3.216457"/>
+        <vertex id="4" latitude="56.552075" longitude="3.217869"/>
+        <vertex id="5" latitude="56.551515" longitude="3.219106"/>
+        <vertex id="6" latitude="56.550833" longitude="3.220121"/>
+        <vertex id="7" latitude="56.550055" longitude="3.220875"/>
+        <vertex id="8" latitude="56.549211" longitude="3.221340"/>
+        <vertex id="9" latitude="56.548333" longitude="3.221497"/>
+        <vertex id="10" latitude="56.547455" longitude="3.221340"/>
+        <vertex id="11" latitude="56.546611" longitude="3.220875"/>
+        <vertex id="12" latitude="56.545833" longitude="3.220121"/>
+        <vertex id="13" latitude="56.545151" longitude="3.219106"/>
+        <vertex id="14" latitude="56.544592" longitude="3.217869"/>
+        <vertex id="15" latitude="56.544176" longitude="3.216457"/>
+        <vertex id="16" latitude="56.543920" longitude="3.214926"/>
+        <vertex id="17" latitude="56.543833" longitude="3.213333"/>
+        <vertex id="18" latitude="56.543920" longitude="3.211741"/>
+        <vertex id="19" latitude="56.544176" longitude="3.210209"/>
+        <vertex id="20" latitude="56.544592" longitude="3.208798"/>
+        <vertex id="21" latitude="56.545151" longitude="3.207561"/>
+        <vertex id="22" latitude="56.545833" longitude="3.206546"/>
+        <vertex id="23" latitude="56.546611" longitude="3.205791"/>
+        <vertex id="24" latitude="56.547455" longitude="3.205327"/>
+        <vertex id="25" latitude="56.548333" longitude="3.205170"/>
+        <vertex id="26" latitude="56.549211" longitude="3.205327"/>
+        <vertex id="27" latitude="56.550055" longitude="3.205791"/>
+        <vertex id="28" latitude="56.550833" longitude="3.206546"/>
+        <vertex id="29" latitude="56.551515" longitude="3.207561"/>
+        <vertex id="30" latitude="56.552075" longitude="3.208798"/>
+        <vertex id="31" latitude="56.552491" longitude="3.210209"/>
+        <vertex id="32" latitude="56.552747" longitude="3.211741"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="57.017833" longitude="1.841667"/>
+        <vertex id="2" latitude="57.017747" longitude="1.843279"/>
+        <vertex id="3" latitude="57.017491" longitude="1.844830"/>
+        <vertex id="4" latitude="57.017075" longitude="1.846259"/>
+        <vertex id="5" latitude="57.016515" longitude="1.847511"/>
+        <vertex id="6" latitude="57.015833" longitude="1.848539"/>
+        <vertex id="7" latitude="57.015055" longitude="1.849303"/>
+        <vertex id="8" latitude="57.014211" longitude="1.849773"/>
+        <vertex id="9" latitude="57.013333" longitude="1.849932"/>
+        <vertex id="10" latitude="57.012455" longitude="1.849773"/>
+        <vertex id="11" latitude="57.011611" longitude="1.849303"/>
+        <vertex id="12" latitude="57.010833" longitude="1.848539"/>
+        <vertex id="13" latitude="57.010151" longitude="1.847511"/>
+        <vertex id="14" latitude="57.009592" longitude="1.846259"/>
+        <vertex id="15" latitude="57.009176" longitude="1.844830"/>
+        <vertex id="16" latitude="57.008920" longitude="1.843279"/>
+        <vertex id="17" latitude="57.008833" longitude="1.841667"/>
+        <vertex id="18" latitude="57.008920" longitude="1.840054"/>
+        <vertex id="19" latitude="57.009176" longitude="1.838504"/>
+        <vertex id="20" latitude="57.009592" longitude="1.837075"/>
+        <vertex id="21" latitude="57.010151" longitude="1.835822"/>
+        <vertex id="22" latitude="57.010833" longitude="1.834794"/>
+        <vertex id="23" latitude="57.011611" longitude="1.834031"/>
+        <vertex id="24" latitude="57.012455" longitude="1.833560"/>
+        <vertex id="25" latitude="57.013333" longitude="1.833401"/>
+        <vertex id="26" latitude="57.014211" longitude="1.833560"/>
+        <vertex id="27" latitude="57.015055" longitude="1.834031"/>
+        <vertex id="28" latitude="57.015833" longitude="1.834794"/>
+        <vertex id="29" latitude="57.016515" longitude="1.835822"/>
+        <vertex id="30" latitude="57.017075" longitude="1.837075"/>
+        <vertex id="31" latitude="57.017491" longitude="1.838504"/>
+        <vertex id="32" latitude="57.017747" longitude="1.840054"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="57.017833" longitude="1.840000"/>
+        <vertex id="2" latitude="57.017747" longitude="1.841612"/>
+        <vertex id="3" latitude="57.017491" longitude="1.843163"/>
+        <vertex id="4" latitude="57.017075" longitude="1.844592"/>
+        <vertex id="5" latitude="57.016515" longitude="1.845844"/>
+        <vertex id="6" latitude="57.015833" longitude="1.846872"/>
+        <vertex id="7" latitude="57.015055" longitude="1.847636"/>
+        <vertex id="8" latitude="57.014211" longitude="1.848106"/>
+        <vertex id="9" latitude="57.013333" longitude="1.848265"/>
+        <vertex id="10" latitude="57.012455" longitude="1.848106"/>
+        <vertex id="11" latitude="57.011611" longitude="1.847636"/>
+        <vertex id="12" latitude="57.010833" longitude="1.846872"/>
+        <vertex id="13" latitude="57.010151" longitude="1.845844"/>
+        <vertex id="14" latitude="57.009592" longitude="1.844592"/>
+        <vertex id="15" latitude="57.009176" longitude="1.843163"/>
+        <vertex id="16" latitude="57.008920" longitude="1.841612"/>
+        <vertex id="17" latitude="57.008833" longitude="1.840000"/>
+        <vertex id="18" latitude="57.008920" longitude="1.838388"/>
+        <vertex id="19" latitude="57.009176" longitude="1.836837"/>
+        <vertex id="20" latitude="57.009592" longitude="1.835408"/>
+        <vertex id="21" latitude="57.010151" longitude="1.834156"/>
+        <vertex id="22" latitude="57.010833" longitude="1.833128"/>
+        <vertex id="23" latitude="57.011611" longitude="1.832364"/>
+        <vertex id="24" latitude="57.012455" longitude="1.831894"/>
+        <vertex id="25" latitude="57.013333" longitude="1.831735"/>
+        <vertex id="26" latitude="57.014211" longitude="1.831894"/>
+        <vertex id="27" latitude="57.015055" longitude="1.832364"/>
+        <vertex id="28" latitude="57.015833" longitude="1.833128"/>
+        <vertex id="29" latitude="57.016515" longitude="1.834156"/>
+        <vertex id="30" latitude="57.017075" longitude="1.835408"/>
+        <vertex id="31" latitude="57.017491" longitude="1.836837"/>
+        <vertex id="32" latitude="57.017747" longitude="1.838388"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="57.036167" longitude="1.955000"/>
+        <vertex id="2" latitude="57.036080" longitude="1.956613"/>
+        <vertex id="3" latitude="57.035824" longitude="1.958165"/>
+        <vertex id="4" latitude="57.035408" longitude="1.959594"/>
+        <vertex id="5" latitude="57.034849" longitude="1.960847"/>
+        <vertex id="6" latitude="57.034167" longitude="1.961876"/>
+        <vertex id="7" latitude="57.033389" longitude="1.962640"/>
+        <vertex id="8" latitude="57.032545" longitude="1.963110"/>
+        <vertex id="9" latitude="57.031667" longitude="1.963269"/>
+        <vertex id="10" latitude="57.030789" longitude="1.963110"/>
+        <vertex id="11" latitude="57.029945" longitude="1.962640"/>
+        <vertex id="12" latitude="57.029167" longitude="1.961876"/>
+        <vertex id="13" latitude="57.028485" longitude="1.960847"/>
+        <vertex id="14" latitude="57.027925" longitude="1.959594"/>
+        <vertex id="15" latitude="57.027509" longitude="1.958165"/>
+        <vertex id="16" latitude="57.027253" longitude="1.956613"/>
+        <vertex id="17" latitude="57.027167" longitude="1.955000"/>
+        <vertex id="18" latitude="57.027253" longitude="1.953387"/>
+        <vertex id="19" latitude="57.027509" longitude="1.951835"/>
+        <vertex id="20" latitude="57.027925" longitude="1.950406"/>
+        <vertex id="21" latitude="57.028485" longitude="1.949153"/>
+        <vertex id="22" latitude="57.029167" longitude="1.948124"/>
+        <vertex id="23" latitude="57.029945" longitude="1.947360"/>
+        <vertex id="24" latitude="57.030789" longitude="1.946890"/>
+        <vertex id="25" latitude="57.031667" longitude="1.946731"/>
+        <vertex id="26" latitude="57.032545" longitude="1.946890"/>
+        <vertex id="27" latitude="57.033389" longitude="1.947360"/>
+        <vertex id="28" latitude="57.034167" longitude="1.948124"/>
+        <vertex id="29" latitude="57.034849" longitude="1.949153"/>
+        <vertex id="30" latitude="57.035408" longitude="1.950406"/>
+        <vertex id="31" latitude="57.035824" longitude="1.951835"/>
+        <vertex id="32" latitude="57.036080" longitude="1.953387"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="57.819500" longitude="4.533333"/>
+        <vertex id="2" latitude="57.819414" longitude="4.534982"/>
+        <vertex id="3" latitude="57.819157" longitude="4.536566"/>
+        <vertex id="4" latitude="57.818742" longitude="4.538027"/>
+        <vertex id="5" latitude="57.818182" longitude="4.539307"/>
+        <vertex id="6" latitude="57.817500" longitude="4.540358"/>
+        <vertex id="7" latitude="57.816722" longitude="4.541138"/>
+        <vertex id="8" latitude="57.815878" longitude="4.541619"/>
+        <vertex id="9" latitude="57.815000" longitude="4.541782"/>
+        <vertex id="10" latitude="57.814122" longitude="4.541619"/>
+        <vertex id="11" latitude="57.813278" longitude="4.541138"/>
+        <vertex id="12" latitude="57.812500" longitude="4.540358"/>
+        <vertex id="13" latitude="57.811818" longitude="4.539307"/>
+        <vertex id="14" latitude="57.811258" longitude="4.538027"/>
+        <vertex id="15" latitude="57.810843" longitude="4.536566"/>
+        <vertex id="16" latitude="57.810586" longitude="4.534982"/>
+        <vertex id="17" latitude="57.810500" longitude="4.533333"/>
+        <vertex id="18" latitude="57.810586" longitude="4.531685"/>
+        <vertex id="19" latitude="57.810843" longitude="4.530100"/>
+        <vertex id="20" latitude="57.811258" longitude="4.528640"/>
+        <vertex id="21" latitude="57.811818" longitude="4.527360"/>
+        <vertex id="22" latitude="57.812500" longitude="4.526309"/>
+        <vertex id="23" latitude="57.813278" longitude="4.525528"/>
+        <vertex id="24" latitude="57.814122" longitude="4.525047"/>
+        <vertex id="25" latitude="57.815000" longitude="4.524885"/>
+        <vertex id="26" latitude="57.815878" longitude="4.525047"/>
+        <vertex id="27" latitude="57.816722" longitude="4.525528"/>
+        <vertex id="28" latitude="57.817500" longitude="4.526309"/>
+        <vertex id="29" latitude="57.818182" longitude="4.527360"/>
+        <vertex id="30" latitude="57.818742" longitude="4.528640"/>
+        <vertex id="31" latitude="57.819157" longitude="4.530100"/>
+        <vertex id="32" latitude="57.819414" longitude="4.531685"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="57.907833" longitude="0.031667"/>
+        <vertex id="2" latitude="57.907747" longitude="0.033319"/>
+        <vertex id="3" latitude="57.907491" longitude="0.034908"/>
+        <vertex id="4" latitude="57.907075" longitude="0.036372"/>
+        <vertex id="5" latitude="57.906515" longitude="0.037655"/>
+        <vertex id="6" latitude="57.905833" longitude="0.038708"/>
+        <vertex id="7" latitude="57.905055" longitude="0.039491"/>
+        <vertex id="8" latitude="57.904211" longitude="0.039973"/>
+        <vertex id="9" latitude="57.903333" longitude="0.040136"/>
+        <vertex id="10" latitude="57.902455" longitude="0.039973"/>
+        <vertex id="11" latitude="57.901611" longitude="0.039491"/>
+        <vertex id="12" latitude="57.900833" longitude="0.038708"/>
+        <vertex id="13" latitude="57.900151" longitude="0.037655"/>
+        <vertex id="14" latitude="57.899592" longitude="0.036372"/>
+        <vertex id="15" latitude="57.899176" longitude="0.034908"/>
+        <vertex id="16" latitude="57.898920" longitude="0.033319"/>
+        <vertex id="17" latitude="57.898833" longitude="0.031667"/>
+        <vertex id="18" latitude="57.898920" longitude="0.030014"/>
+        <vertex id="19" latitude="57.899176" longitude="0.028426"/>
+        <vertex id="20" latitude="57.899592" longitude="0.026962"/>
+        <vertex id="21" latitude="57.900151" longitude="0.025678"/>
+        <vertex id="22" latitude="57.900833" longitude="0.024625"/>
+        <vertex id="23" latitude="57.901611" longitude="0.023842"/>
+        <vertex id="24" latitude="57.902455" longitude="0.023360"/>
+        <vertex id="25" latitude="57.903333" longitude="0.023198"/>
+        <vertex id="26" latitude="57.904211" longitude="0.023360"/>
+        <vertex id="27" latitude="57.905055" longitude="0.023842"/>
+        <vertex id="28" latitude="57.905833" longitude="0.024625"/>
+        <vertex id="29" latitude="57.906515" longitude="0.025678"/>
+        <vertex id="30" latitude="57.907075" longitude="0.026962"/>
+        <vertex id="31" latitude="57.907491" longitude="0.028426"/>
+        <vertex id="32" latitude="57.907747" longitude="0.030014"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="58.231167" longitude="1.060000"/>
+        <vertex id="2" latitude="58.231080" longitude="1.061667"/>
+        <vertex id="3" latitude="58.230824" longitude="1.063270"/>
+        <vertex id="4" latitude="58.230408" longitude="1.064748"/>
+        <vertex id="5" latitude="58.229849" longitude="1.066043"/>
+        <vertex id="6" latitude="58.229167" longitude="1.067106"/>
+        <vertex id="7" latitude="58.228389" longitude="1.067896"/>
+        <vertex id="8" latitude="58.227545" longitude="1.068382"/>
+        <vertex id="9" latitude="58.226667" longitude="1.068546"/>
+        <vertex id="10" latitude="58.225789" longitude="1.068382"/>
+        <vertex id="11" latitude="58.224945" longitude="1.067896"/>
+        <vertex id="12" latitude="58.224167" longitude="1.067106"/>
+        <vertex id="13" latitude="58.223485" longitude="1.066043"/>
+        <vertex id="14" latitude="58.222925" longitude="1.064748"/>
+        <vertex id="15" latitude="58.222509" longitude="1.063270"/>
+        <vertex id="16" latitude="58.222253" longitude="1.061667"/>
+        <vertex id="17" latitude="58.222167" longitude="1.060000"/>
+        <vertex id="18" latitude="58.222253" longitude="1.058333"/>
+        <vertex id="19" latitude="58.222509" longitude="1.056730"/>
+        <vertex id="20" latitude="58.222925" longitude="1.055252"/>
+        <vertex id="21" latitude="58.223485" longitude="1.053957"/>
+        <vertex id="22" latitude="58.224167" longitude="1.052894"/>
+        <vertex id="23" latitude="58.224945" longitude="1.052104"/>
+        <vertex id="24" latitude="58.225789" longitude="1.051618"/>
+        <vertex id="25" latitude="58.226667" longitude="1.051454"/>
+        <vertex id="26" latitude="58.227545" longitude="1.051618"/>
+        <vertex id="27" latitude="58.228389" longitude="1.052104"/>
+        <vertex id="28" latitude="58.229167" longitude="1.052894"/>
+        <vertex id="29" latitude="58.229849" longitude="1.053957"/>
+        <vertex id="30" latitude="58.230408" longitude="1.055252"/>
+        <vertex id="31" latitude="58.230824" longitude="1.056730"/>
+        <vertex id="32" latitude="58.231080" longitude="1.058333"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="58.287833" longitude="2.038333"/>
+        <vertex id="2" latitude="58.287747" longitude="2.040003"/>
+        <vertex id="3" latitude="58.287491" longitude="2.041609"/>
+        <vertex id="4" latitude="58.287075" longitude="2.043089"/>
+        <vertex id="5" latitude="58.286515" longitude="2.044386"/>
+        <vertex id="6" latitude="58.285833" longitude="2.045450"/>
+        <vertex id="7" latitude="58.285055" longitude="2.046241"/>
+        <vertex id="8" latitude="58.284211" longitude="2.046729"/>
+        <vertex id="9" latitude="58.283333" longitude="2.046893"/>
+        <vertex id="10" latitude="58.282455" longitude="2.046729"/>
+        <vertex id="11" latitude="58.281611" longitude="2.046241"/>
+        <vertex id="12" latitude="58.280833" longitude="2.045450"/>
+        <vertex id="13" latitude="58.280151" longitude="2.044386"/>
+        <vertex id="14" latitude="58.279592" longitude="2.043089"/>
+        <vertex id="15" latitude="58.279176" longitude="2.041609"/>
+        <vertex id="16" latitude="58.278920" longitude="2.040003"/>
+        <vertex id="17" latitude="58.278833" longitude="2.038333"/>
+        <vertex id="18" latitude="58.278920" longitude="2.036663"/>
+        <vertex id="19" latitude="58.279176" longitude="2.035058"/>
+        <vertex id="20" latitude="58.279592" longitude="2.033578"/>
+        <vertex id="21" latitude="58.280151" longitude="2.032281"/>
+        <vertex id="22" latitude="58.280833" longitude="2.031216"/>
+        <vertex id="23" latitude="58.281611" longitude="2.030425"/>
+        <vertex id="24" latitude="58.282455" longitude="2.029938"/>
+        <vertex id="25" latitude="58.283333" longitude="2.029774"/>
+        <vertex id="26" latitude="58.284211" longitude="2.029938"/>
+        <vertex id="27" latitude="58.285055" longitude="2.030425"/>
+        <vertex id="28" latitude="58.285833" longitude="2.031216"/>
+        <vertex id="29" latitude="58.286515" longitude="2.032281"/>
+        <vertex id="30" latitude="58.287075" longitude="2.033578"/>
+        <vertex id="31" latitude="58.287491" longitude="2.035058"/>
+        <vertex id="32" latitude="58.287747" longitude="2.036663"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="58.421167" longitude="1.715000"/>
+        <vertex id="2" latitude="58.421080" longitude="1.716676"/>
+        <vertex id="3" latitude="58.420824" longitude="1.718288"/>
+        <vertex id="4" latitude="58.420408" longitude="1.719774"/>
+        <vertex id="5" latitude="58.419849" longitude="1.721076"/>
+        <vertex id="6" latitude="58.419167" longitude="1.722144"/>
+        <vertex id="7" latitude="58.418389" longitude="1.722938"/>
+        <vertex id="8" latitude="58.417545" longitude="1.723427"/>
+        <vertex id="9" latitude="58.416667" longitude="1.723592"/>
+        <vertex id="10" latitude="58.415789" longitude="1.723427"/>
+        <vertex id="11" latitude="58.414945" longitude="1.722938"/>
+        <vertex id="12" latitude="58.414167" longitude="1.722144"/>
+        <vertex id="13" latitude="58.413485" longitude="1.721076"/>
+        <vertex id="14" latitude="58.412925" longitude="1.719774"/>
+        <vertex id="15" latitude="58.412509" longitude="1.718288"/>
+        <vertex id="16" latitude="58.412253" longitude="1.716676"/>
+        <vertex id="17" latitude="58.412167" longitude="1.715000"/>
+        <vertex id="18" latitude="58.412253" longitude="1.713324"/>
+        <vertex id="19" latitude="58.412509" longitude="1.711712"/>
+        <vertex id="20" latitude="58.412925" longitude="1.710226"/>
+        <vertex id="21" latitude="58.413485" longitude="1.708924"/>
+        <vertex id="22" latitude="58.414167" longitude="1.707856"/>
+        <vertex id="23" latitude="58.414945" longitude="1.707062"/>
+        <vertex id="24" latitude="58.415789" longitude="1.706573"/>
+        <vertex id="25" latitude="58.416667" longitude="1.706408"/>
+        <vertex id="26" latitude="58.417545" longitude="1.706573"/>
+        <vertex id="27" latitude="58.418389" longitude="1.707062"/>
+        <vertex id="28" latitude="58.419167" longitude="1.707856"/>
+        <vertex id="29" latitude="58.419849" longitude="1.708924"/>
+        <vertex id="30" latitude="58.420408" longitude="1.710226"/>
+        <vertex id="31" latitude="58.420824" longitude="1.711712"/>
+        <vertex id="32" latitude="58.421080" longitude="1.713324"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="58.711167" longitude="1.836667"/>
+        <vertex id="2" latitude="58.711080" longitude="1.838357"/>
+        <vertex id="3" latitude="58.710824" longitude="1.839982"/>
+        <vertex id="4" latitude="58.710408" longitude="1.841480"/>
+        <vertex id="5" latitude="58.709849" longitude="1.842793"/>
+        <vertex id="6" latitude="58.709167" longitude="1.843870"/>
+        <vertex id="7" latitude="58.708389" longitude="1.844671"/>
+        <vertex id="8" latitude="58.707545" longitude="1.845164"/>
+        <vertex id="9" latitude="58.706667" longitude="1.845330"/>
+        <vertex id="10" latitude="58.705789" longitude="1.845164"/>
+        <vertex id="11" latitude="58.704945" longitude="1.844671"/>
+        <vertex id="12" latitude="58.704167" longitude="1.843870"/>
+        <vertex id="13" latitude="58.703485" longitude="1.842793"/>
+        <vertex id="14" latitude="58.702925" longitude="1.841480"/>
+        <vertex id="15" latitude="58.702509" longitude="1.839982"/>
+        <vertex id="16" latitude="58.702253" longitude="1.838357"/>
+        <vertex id="17" latitude="58.702167" longitude="1.836667"/>
+        <vertex id="18" latitude="58.702253" longitude="1.834976"/>
+        <vertex id="19" latitude="58.702509" longitude="1.833351"/>
+        <vertex id="20" latitude="58.702925" longitude="1.831853"/>
+        <vertex id="21" latitude="58.703485" longitude="1.830541"/>
+        <vertex id="22" latitude="58.704167" longitude="1.829463"/>
+        <vertex id="23" latitude="58.704945" longitude="1.828663"/>
+        <vertex id="24" latitude="58.705789" longitude="1.828170"/>
+        <vertex id="25" latitude="58.706667" longitude="1.828003"/>
+        <vertex id="26" latitude="58.707545" longitude="1.828170"/>
+        <vertex id="27" latitude="58.708389" longitude="1.828663"/>
+        <vertex id="28" latitude="58.709167" longitude="1.829463"/>
+        <vertex id="29" latitude="58.709849" longitude="1.830541"/>
+        <vertex id="30" latitude="58.710408" longitude="1.831853"/>
+        <vertex id="31" latitude="58.710824" longitude="1.833351"/>
+        <vertex id="32" latitude="58.711080" longitude="1.834976"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="58.847833" longitude="1.743333"/>
+        <vertex id="2" latitude="58.847747" longitude="1.745030"/>
+        <vertex id="3" latitude="58.847491" longitude="1.746662"/>
+        <vertex id="4" latitude="58.847075" longitude="1.748165"/>
+        <vertex id="5" latitude="58.846515" longitude="1.749484"/>
+        <vertex id="6" latitude="58.845833" longitude="1.750565"/>
+        <vertex id="7" latitude="58.845055" longitude="1.751369"/>
+        <vertex id="8" latitude="58.844211" longitude="1.751864"/>
+        <vertex id="9" latitude="58.843333" longitude="1.752031"/>
+        <vertex id="10" latitude="58.842455" longitude="1.751864"/>
+        <vertex id="11" latitude="58.841611" longitude="1.751369"/>
+        <vertex id="12" latitude="58.840833" longitude="1.750565"/>
+        <vertex id="13" latitude="58.840151" longitude="1.749484"/>
+        <vertex id="14" latitude="58.839592" longitude="1.748165"/>
+        <vertex id="15" latitude="58.839176" longitude="1.746662"/>
+        <vertex id="16" latitude="58.838920" longitude="1.745030"/>
+        <vertex id="17" latitude="58.838833" longitude="1.743333"/>
+        <vertex id="18" latitude="58.838920" longitude="1.741637"/>
+        <vertex id="19" latitude="58.839176" longitude="1.740005"/>
+        <vertex id="20" latitude="58.839592" longitude="1.738501"/>
+        <vertex id="21" latitude="58.840151" longitude="1.737183"/>
+        <vertex id="22" latitude="58.840833" longitude="1.736101"/>
+        <vertex id="23" latitude="58.841611" longitude="1.735298"/>
+        <vertex id="24" latitude="58.842455" longitude="1.734803"/>
+        <vertex id="25" latitude="58.843333" longitude="1.734636"/>
+        <vertex id="26" latitude="58.844211" longitude="1.734803"/>
+        <vertex id="27" latitude="58.845055" longitude="1.735298"/>
+        <vertex id="28" latitude="58.845833" longitude="1.736101"/>
+        <vertex id="29" latitude="58.846515" longitude="1.737183"/>
+        <vertex id="30" latitude="58.847075" longitude="1.738501"/>
+        <vertex id="31" latitude="58.847491" longitude="1.740005"/>
+        <vertex id="32" latitude="58.847747" longitude="1.741637"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="58.926167" longitude="2.198333"/>
+        <vertex id="2" latitude="58.926080" longitude="2.200034"/>
+        <vertex id="3" latitude="58.925824" longitude="2.201669"/>
+        <vertex id="4" latitude="58.925408" longitude="2.203176"/>
+        <vertex id="5" latitude="58.924849" longitude="2.204497"/>
+        <vertex id="6" latitude="58.924167" longitude="2.205582"/>
+        <vertex id="7" latitude="58.923389" longitude="2.206387"/>
+        <vertex id="8" latitude="58.922545" longitude="2.206883"/>
+        <vertex id="9" latitude="58.921667" longitude="2.207051"/>
+        <vertex id="10" latitude="58.920789" longitude="2.206883"/>
+        <vertex id="11" latitude="58.919945" longitude="2.206387"/>
+        <vertex id="12" latitude="58.919167" longitude="2.205582"/>
+        <vertex id="13" latitude="58.918485" longitude="2.204497"/>
+        <vertex id="14" latitude="58.917925" longitude="2.203176"/>
+        <vertex id="15" latitude="58.917509" longitude="2.201669"/>
+        <vertex id="16" latitude="58.917253" longitude="2.200034"/>
+        <vertex id="17" latitude="58.917167" longitude="2.198333"/>
+        <vertex id="18" latitude="58.917253" longitude="2.196633"/>
+        <vertex id="19" latitude="58.917509" longitude="2.194997"/>
+        <vertex id="20" latitude="58.917925" longitude="2.193490"/>
+        <vertex id="21" latitude="58.918485" longitude="2.192169"/>
+        <vertex id="22" latitude="58.919167" longitude="2.191085"/>
+        <vertex id="23" latitude="58.919945" longitude="2.190280"/>
+        <vertex id="24" latitude="58.920789" longitude="2.189783"/>
+        <vertex id="25" latitude="58.921667" longitude="2.189616"/>
+        <vertex id="26" latitude="58.922545" longitude="2.189783"/>
+        <vertex id="27" latitude="58.923389" longitude="2.190280"/>
+        <vertex id="28" latitude="58.924167" longitude="2.191085"/>
+        <vertex id="29" latitude="58.924849" longitude="2.192169"/>
+        <vertex id="30" latitude="58.925408" longitude="2.193490"/>
+        <vertex id="31" latitude="58.925824" longitude="2.194997"/>
+        <vertex id="32" latitude="58.926080" longitude="2.196633"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="59.236167" longitude="2.555000"/>
+        <vertex id="2" latitude="59.236080" longitude="2.556716"/>
+        <vertex id="3" latitude="59.235824" longitude="2.558366"/>
+        <vertex id="4" latitude="59.235408" longitude="2.559887"/>
+        <vertex id="5" latitude="59.234849" longitude="2.561220"/>
+        <vertex id="6" latitude="59.234167" longitude="2.562314"/>
+        <vertex id="7" latitude="59.233389" longitude="2.563127"/>
+        <vertex id="8" latitude="59.232545" longitude="2.563627"/>
+        <vertex id="9" latitude="59.231667" longitude="2.563796"/>
+        <vertex id="10" latitude="59.230789" longitude="2.563627"/>
+        <vertex id="11" latitude="59.229945" longitude="2.563127"/>
+        <vertex id="12" latitude="59.229167" longitude="2.562314"/>
+        <vertex id="13" latitude="59.228485" longitude="2.561220"/>
+        <vertex id="14" latitude="59.227925" longitude="2.559887"/>
+        <vertex id="15" latitude="59.227509" longitude="2.558366"/>
+        <vertex id="16" latitude="59.227253" longitude="2.556716"/>
+        <vertex id="17" latitude="59.227167" longitude="2.555000"/>
+        <vertex id="18" latitude="59.227253" longitude="2.553284"/>
+        <vertex id="19" latitude="59.227509" longitude="2.551634"/>
+        <vertex id="20" latitude="59.227925" longitude="2.550113"/>
+        <vertex id="21" latitude="59.228485" longitude="2.548780"/>
+        <vertex id="22" latitude="59.229167" longitude="2.547686"/>
+        <vertex id="23" latitude="59.229945" longitude="2.546873"/>
+        <vertex id="24" latitude="59.230789" longitude="2.546373"/>
+        <vertex id="25" latitude="59.231667" longitude="2.546204"/>
+        <vertex id="26" latitude="59.232545" longitude="2.546373"/>
+        <vertex id="27" latitude="59.233389" longitude="2.546873"/>
+        <vertex id="28" latitude="59.234167" longitude="2.547686"/>
+        <vertex id="29" latitude="59.234849" longitude="2.548780"/>
+        <vertex id="30" latitude="59.235408" longitude="2.550113"/>
+        <vertex id="31" latitude="59.235824" longitude="2.551634"/>
+        <vertex id="32" latitude="59.236080" longitude="2.553284"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="59.422833" longitude="2.338333"/>
+        <vertex id="2" latitude="59.422747" longitude="2.340059"/>
+        <vertex id="3" latitude="59.422491" longitude="2.341718"/>
+        <vertex id="4" latitude="59.422075" longitude="2.343247"/>
+        <vertex id="5" latitude="59.421515" longitude="2.344588"/>
+        <vertex id="6" latitude="59.420833" longitude="2.345688"/>
+        <vertex id="7" latitude="59.420055" longitude="2.346505"/>
+        <vertex id="8" latitude="59.419211" longitude="2.347008"/>
+        <vertex id="9" latitude="59.418333" longitude="2.347178"/>
+        <vertex id="10" latitude="59.417455" longitude="2.347008"/>
+        <vertex id="11" latitude="59.416611" longitude="2.346505"/>
+        <vertex id="12" latitude="59.415833" longitude="2.345688"/>
+        <vertex id="13" latitude="59.415151" longitude="2.344588"/>
+        <vertex id="14" latitude="59.414592" longitude="2.343247"/>
+        <vertex id="15" latitude="59.414176" longitude="2.341718"/>
+        <vertex id="16" latitude="59.413920" longitude="2.340059"/>
+        <vertex id="17" latitude="59.413833" longitude="2.338333"/>
+        <vertex id="18" latitude="59.413920" longitude="2.336608"/>
+        <vertex id="19" latitude="59.414176" longitude="2.334949"/>
+        <vertex id="20" latitude="59.414592" longitude="2.333419"/>
+        <vertex id="21" latitude="59.415151" longitude="2.332079"/>
+        <vertex id="22" latitude="59.415833" longitude="2.330979"/>
+        <vertex id="23" latitude="59.416611" longitude="2.330162"/>
+        <vertex id="24" latitude="59.417455" longitude="2.329658"/>
+        <vertex id="25" latitude="59.418333" longitude="2.329488"/>
+        <vertex id="26" latitude="59.419211" longitude="2.329658"/>
+        <vertex id="27" latitude="59.420055" longitude="2.330162"/>
+        <vertex id="28" latitude="59.420833" longitude="2.330979"/>
+        <vertex id="29" latitude="59.421515" longitude="2.332079"/>
+        <vertex id="30" latitude="59.422075" longitude="2.333419"/>
+        <vertex id="31" latitude="59.422491" longitude="2.334949"/>
+        <vertex id="32" latitude="59.422747" longitude="2.336608"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="59.817833" longitude="2.620000"/>
+        <vertex id="2" latitude="59.817747" longitude="2.621746"/>
+        <vertex id="3" latitude="59.817491" longitude="2.623425"/>
+        <vertex id="4" latitude="59.817075" longitude="2.624972"/>
+        <vertex id="5" latitude="59.816515" longitude="2.626328"/>
+        <vertex id="6" latitude="59.815833" longitude="2.627441"/>
+        <vertex id="7" latitude="59.815055" longitude="2.628268"/>
+        <vertex id="8" latitude="59.814211" longitude="2.628778"/>
+        <vertex id="9" latitude="59.813333" longitude="2.628950"/>
+        <vertex id="10" latitude="59.812455" longitude="2.628778"/>
+        <vertex id="11" latitude="59.811611" longitude="2.628268"/>
+        <vertex id="12" latitude="59.810833" longitude="2.627441"/>
+        <vertex id="13" latitude="59.810151" longitude="2.626328"/>
+        <vertex id="14" latitude="59.809592" longitude="2.624972"/>
+        <vertex id="15" latitude="59.809176" longitude="2.623425"/>
+        <vertex id="16" latitude="59.808920" longitude="2.621746"/>
+        <vertex id="17" latitude="59.808833" longitude="2.620000"/>
+        <vertex id="18" latitude="59.808920" longitude="2.618254"/>
+        <vertex id="19" latitude="59.809176" longitude="2.616575"/>
+        <vertex id="20" latitude="59.809592" longitude="2.615028"/>
+        <vertex id="21" latitude="59.810151" longitude="2.613672"/>
+        <vertex id="22" latitude="59.810833" longitude="2.612559"/>
+        <vertex id="23" latitude="59.811611" longitude="2.611732"/>
+        <vertex id="24" latitude="59.812455" longitude="2.611222"/>
+        <vertex id="25" latitude="59.813333" longitude="2.611050"/>
+        <vertex id="26" latitude="59.814211" longitude="2.611222"/>
+        <vertex id="27" latitude="59.815055" longitude="2.611732"/>
+        <vertex id="28" latitude="59.815833" longitude="2.612559"/>
+        <vertex id="29" latitude="59.816515" longitude="2.613672"/>
+        <vertex id="30" latitude="59.817075" longitude="2.615028"/>
+        <vertex id="31" latitude="59.817491" longitude="2.616575"/>
+        <vertex id="32" latitude="59.817747" longitude="2.618254"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="60.116167" longitude="2.591667"/>
+        <vertex id="2" latitude="60.116080" longitude="2.593428"/>
+        <vertex id="3" latitude="60.115824" longitude="2.595122"/>
+        <vertex id="4" latitude="60.115408" longitude="2.596684"/>
+        <vertex id="5" latitude="60.114849" longitude="2.598052"/>
+        <vertex id="6" latitude="60.114167" longitude="2.599175"/>
+        <vertex id="7" latitude="60.113389" longitude="2.600010"/>
+        <vertex id="8" latitude="60.112545" longitude="2.600524"/>
+        <vertex id="9" latitude="60.111667" longitude="2.600697"/>
+        <vertex id="10" latitude="60.110789" longitude="2.600524"/>
+        <vertex id="11" latitude="60.109945" longitude="2.600010"/>
+        <vertex id="12" latitude="60.109167" longitude="2.599175"/>
+        <vertex id="13" latitude="60.108485" longitude="2.598052"/>
+        <vertex id="14" latitude="60.107925" longitude="2.596684"/>
+        <vertex id="15" latitude="60.107509" longitude="2.595122"/>
+        <vertex id="16" latitude="60.107253" longitude="2.593428"/>
+        <vertex id="17" latitude="60.107167" longitude="2.591667"/>
+        <vertex id="18" latitude="60.107253" longitude="2.589905"/>
+        <vertex id="19" latitude="60.107509" longitude="2.588211"/>
+        <vertex id="20" latitude="60.107925" longitude="2.586650"/>
+        <vertex id="21" latitude="60.108485" longitude="2.585281"/>
+        <vertex id="22" latitude="60.109167" longitude="2.584158"/>
+        <vertex id="23" latitude="60.109945" longitude="2.583324"/>
+        <vertex id="24" latitude="60.110789" longitude="2.582810"/>
+        <vertex id="25" latitude="60.111667" longitude="2.582636"/>
+        <vertex id="26" latitude="60.112545" longitude="2.582810"/>
+        <vertex id="27" latitude="60.113389" longitude="2.583324"/>
+        <vertex id="28" latitude="60.114167" longitude="2.584158"/>
+        <vertex id="29" latitude="60.114849" longitude="2.585281"/>
+        <vertex id="30" latitude="60.115408" longitude="2.586650"/>
+        <vertex id="31" latitude="60.115824" longitude="2.588211"/>
+        <vertex id="32" latitude="60.116080" longitude="2.589905"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="60.511167" longitude="2.041667"/>
+        <vertex id="2" latitude="60.511080" longitude="2.043450"/>
+        <vertex id="3" latitude="60.510824" longitude="2.045165"/>
+        <vertex id="4" latitude="60.510408" longitude="2.046745"/>
+        <vertex id="5" latitude="60.509849" longitude="2.048130"/>
+        <vertex id="6" latitude="60.509167" longitude="2.049267"/>
+        <vertex id="7" latitude="60.508389" longitude="2.050111"/>
+        <vertex id="8" latitude="60.507545" longitude="2.050631"/>
+        <vertex id="9" latitude="60.506667" longitude="2.050807"/>
+        <vertex id="10" latitude="60.505789" longitude="2.050631"/>
+        <vertex id="11" latitude="60.504945" longitude="2.050111"/>
+        <vertex id="12" latitude="60.504167" longitude="2.049267"/>
+        <vertex id="13" latitude="60.503485" longitude="2.048130"/>
+        <vertex id="14" latitude="60.502925" longitude="2.046745"/>
+        <vertex id="15" latitude="60.502509" longitude="2.045165"/>
+        <vertex id="16" latitude="60.502253" longitude="2.043450"/>
+        <vertex id="17" latitude="60.502167" longitude="2.041667"/>
+        <vertex id="18" latitude="60.502253" longitude="2.039883"/>
+        <vertex id="19" latitude="60.502509" longitude="2.038169"/>
+        <vertex id="20" latitude="60.502925" longitude="2.036589"/>
+        <vertex id="21" latitude="60.503485" longitude="2.035203"/>
+        <vertex id="22" latitude="60.504167" longitude="2.034067"/>
+        <vertex id="23" latitude="60.504945" longitude="2.033222"/>
+        <vertex id="24" latitude="60.505789" longitude="2.032702"/>
+        <vertex id="25" latitude="60.506667" longitude="2.032526"/>
+        <vertex id="26" latitude="60.507545" longitude="2.032702"/>
+        <vertex id="27" latitude="60.508389" longitude="2.033222"/>
+        <vertex id="28" latitude="60.509167" longitude="2.034067"/>
+        <vertex id="29" latitude="60.509849" longitude="2.035203"/>
+        <vertex id="30" latitude="60.510408" longitude="2.036589"/>
+        <vertex id="31" latitude="60.510824" longitude="2.038169"/>
+        <vertex id="32" latitude="60.511080" longitude="2.039883"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="61.024500" longitude="2.148333"/>
+        <vertex id="2" latitude="61.024414" longitude="2.150145"/>
+        <vertex id="3" latitude="61.024157" longitude="2.151888"/>
+        <vertex id="4" latitude="61.023742" longitude="2.153493"/>
+        <vertex id="5" latitude="61.023182" longitude="2.154901"/>
+        <vertex id="6" latitude="61.022500" longitude="2.156056"/>
+        <vertex id="7" latitude="61.021722" longitude="2.156914"/>
+        <vertex id="8" latitude="61.020878" longitude="2.157443"/>
+        <vertex id="9" latitude="61.020000" longitude="2.157621"/>
+        <vertex id="10" latitude="61.019122" longitude="2.157443"/>
+        <vertex id="11" latitude="61.018278" longitude="2.156914"/>
+        <vertex id="12" latitude="61.017500" longitude="2.156056"/>
+        <vertex id="13" latitude="61.016818" longitude="2.154901"/>
+        <vertex id="14" latitude="61.016258" longitude="2.153493"/>
+        <vertex id="15" latitude="61.015843" longitude="2.151888"/>
+        <vertex id="16" latitude="61.015586" longitude="2.150145"/>
+        <vertex id="17" latitude="61.015500" longitude="2.148333"/>
+        <vertex id="18" latitude="61.015586" longitude="2.146521"/>
+        <vertex id="19" latitude="61.015843" longitude="2.144779"/>
+        <vertex id="20" latitude="61.016258" longitude="2.143173"/>
+        <vertex id="21" latitude="61.016818" longitude="2.141766"/>
+        <vertex id="22" latitude="61.017500" longitude="2.140611"/>
+        <vertex id="23" latitude="61.018278" longitude="2.139752"/>
+        <vertex id="24" latitude="61.019122" longitude="2.139224"/>
+        <vertex id="25" latitude="61.020000" longitude="2.139045"/>
+        <vertex id="26" latitude="61.020878" longitude="2.139224"/>
+        <vertex id="27" latitude="61.021722" longitude="2.139752"/>
+        <vertex id="28" latitude="61.022500" longitude="2.140611"/>
+        <vertex id="29" latitude="61.023182" longitude="2.141766"/>
+        <vertex id="30" latitude="61.023742" longitude="2.143173"/>
+        <vertex id="31" latitude="61.024157" longitude="2.144779"/>
+        <vertex id="32" latitude="61.024414" longitude="2.146521"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="61.037833" longitude="1.128333"/>
+        <vertex id="2" latitude="61.037747" longitude="1.130146"/>
+        <vertex id="3" latitude="61.037491" longitude="1.131889"/>
+        <vertex id="4" latitude="61.037075" longitude="1.133496"/>
+        <vertex id="5" latitude="61.036515" longitude="1.134904"/>
+        <vertex id="6" latitude="61.035833" longitude="1.136059"/>
+        <vertex id="7" latitude="61.035055" longitude="1.136918"/>
+        <vertex id="8" latitude="61.034211" longitude="1.137447"/>
+        <vertex id="9" latitude="61.033333" longitude="1.137625"/>
+        <vertex id="10" latitude="61.032455" longitude="1.137447"/>
+        <vertex id="11" latitude="61.031611" longitude="1.136918"/>
+        <vertex id="12" latitude="61.030833" longitude="1.136059"/>
+        <vertex id="13" latitude="61.030151" longitude="1.134904"/>
+        <vertex id="14" latitude="61.029592" longitude="1.133496"/>
+        <vertex id="15" latitude="61.029176" longitude="1.131889"/>
+        <vertex id="16" latitude="61.028920" longitude="1.130146"/>
+        <vertex id="17" latitude="61.028833" longitude="1.128333"/>
+        <vertex id="18" latitude="61.028920" longitude="1.126521"/>
+        <vertex id="19" latitude="61.029176" longitude="1.124778"/>
+        <vertex id="20" latitude="61.029592" longitude="1.123171"/>
+        <vertex id="21" latitude="61.030151" longitude="1.121763"/>
+        <vertex id="22" latitude="61.030833" longitude="1.120608"/>
+        <vertex id="23" latitude="61.031611" longitude="1.119749"/>
+        <vertex id="24" latitude="61.032455" longitude="1.119220"/>
+        <vertex id="25" latitude="61.033333" longitude="1.119042"/>
+        <vertex id="26" latitude="61.034211" longitude="1.119220"/>
+        <vertex id="27" latitude="61.035055" longitude="1.119749"/>
+        <vertex id="28" latitude="61.035833" longitude="1.120608"/>
+        <vertex id="29" latitude="61.036515" longitude="1.121763"/>
+        <vertex id="30" latitude="61.037075" longitude="1.123171"/>
+        <vertex id="31" latitude="61.037491" longitude="1.124778"/>
+        <vertex id="32" latitude="61.037747" longitude="1.126521"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="61.041167" longitude="-3.748333"/>
+        <vertex id="2" latitude="61.041080" longitude="-3.746520"/>
+        <vertex id="3" latitude="61.040824" longitude="-3.744777"/>
+        <vertex id="4" latitude="61.040408" longitude="-3.743171"/>
+        <vertex id="5" latitude="61.039849" longitude="-3.741762"/>
+        <vertex id="6" latitude="61.039167" longitude="-3.740607"/>
+        <vertex id="7" latitude="61.038389" longitude="-3.739748"/>
+        <vertex id="8" latitude="61.037545" longitude="-3.739219"/>
+        <vertex id="9" latitude="61.036667" longitude="-3.739041"/>
+        <vertex id="10" latitude="61.035789" longitude="-3.739219"/>
+        <vertex id="11" latitude="61.034945" longitude="-3.739748"/>
+        <vertex id="12" latitude="61.034167" longitude="-3.740607"/>
+        <vertex id="13" latitude="61.033485" longitude="-3.741762"/>
+        <vertex id="14" latitude="61.032925" longitude="-3.743171"/>
+        <vertex id="15" latitude="61.032509" longitude="-3.744777"/>
+        <vertex id="16" latitude="61.032253" longitude="-3.746520"/>
+        <vertex id="17" latitude="61.032167" longitude="-3.748333"/>
+        <vertex id="18" latitude="61.032253" longitude="-3.750146"/>
+        <vertex id="19" latitude="61.032509" longitude="-3.751890"/>
+        <vertex id="20" latitude="61.032925" longitude="-3.753496"/>
+        <vertex id="21" latitude="61.033485" longitude="-3.754904"/>
+        <vertex id="22" latitude="61.034167" longitude="-3.756060"/>
+        <vertex id="23" latitude="61.034945" longitude="-3.756919"/>
+        <vertex id="24" latitude="61.035789" longitude="-3.757448"/>
+        <vertex id="25" latitude="61.036667" longitude="-3.757626"/>
+        <vertex id="26" latitude="61.037545" longitude="-3.757448"/>
+        <vertex id="27" latitude="61.038389" longitude="-3.756919"/>
+        <vertex id="28" latitude="61.039167" longitude="-3.756060"/>
+        <vertex id="29" latitude="61.039849" longitude="-3.754904"/>
+        <vertex id="30" latitude="61.040408" longitude="-3.753496"/>
+        <vertex id="31" latitude="61.040824" longitude="-3.751890"/>
+        <vertex id="32" latitude="61.041080" longitude="-3.750146"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="61.127833" longitude="2.243333"/>
+        <vertex id="2" latitude="61.127747" longitude="2.245151"/>
+        <vertex id="3" latitude="61.127491" longitude="2.246899"/>
+        <vertex id="4" latitude="61.127075" longitude="2.248510"/>
+        <vertex id="5" latitude="61.126515" longitude="2.249922"/>
+        <vertex id="6" latitude="61.125833" longitude="2.251081"/>
+        <vertex id="7" latitude="61.125055" longitude="2.251942"/>
+        <vertex id="8" latitude="61.124211" longitude="2.252472"/>
+        <vertex id="9" latitude="61.123333" longitude="2.252652"/>
+        <vertex id="10" latitude="61.122455" longitude="2.252472"/>
+        <vertex id="11" latitude="61.121611" longitude="2.251942"/>
+        <vertex id="12" latitude="61.120833" longitude="2.251081"/>
+        <vertex id="13" latitude="61.120151" longitude="2.249922"/>
+        <vertex id="14" latitude="61.119592" longitude="2.248510"/>
+        <vertex id="15" latitude="61.119176" longitude="2.246899"/>
+        <vertex id="16" latitude="61.118920" longitude="2.245151"/>
+        <vertex id="17" latitude="61.118833" longitude="2.243333"/>
+        <vertex id="18" latitude="61.118920" longitude="2.241515"/>
+        <vertex id="19" latitude="61.119176" longitude="2.239767"/>
+        <vertex id="20" latitude="61.119592" longitude="2.238156"/>
+        <vertex id="21" latitude="61.120151" longitude="2.236744"/>
+        <vertex id="22" latitude="61.120833" longitude="2.235586"/>
+        <vertex id="23" latitude="61.121611" longitude="2.234724"/>
+        <vertex id="24" latitude="61.122455" longitude="2.234194"/>
+        <vertex id="25" latitude="61.123333" longitude="2.234015"/>
+        <vertex id="26" latitude="61.124211" longitude="2.234194"/>
+        <vertex id="27" latitude="61.125055" longitude="2.234724"/>
+        <vertex id="28" latitude="61.125833" longitude="2.235586"/>
+        <vertex id="29" latitude="61.126515" longitude="2.236744"/>
+        <vertex id="30" latitude="61.127075" longitude="2.238156"/>
+        <vertex id="31" latitude="61.127491" longitude="2.239767"/>
+        <vertex id="32" latitude="61.127747" longitude="2.241515"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="61.262833" longitude="3.013333"/>
+        <vertex id="2" latitude="61.262747" longitude="3.015159"/>
+        <vertex id="3" latitude="61.262491" longitude="3.016915"/>
+        <vertex id="4" latitude="61.262075" longitude="3.018532"/>
+        <vertex id="5" latitude="61.261515" longitude="3.019951"/>
+        <vertex id="6" latitude="61.260833" longitude="3.021114"/>
+        <vertex id="7" latitude="61.260055" longitude="3.021979"/>
+        <vertex id="8" latitude="61.259211" longitude="3.022512"/>
+        <vertex id="9" latitude="61.258333" longitude="3.022692"/>
+        <vertex id="10" latitude="61.257455" longitude="3.022512"/>
+        <vertex id="11" latitude="61.256611" longitude="3.021979"/>
+        <vertex id="12" latitude="61.255833" longitude="3.021114"/>
+        <vertex id="13" latitude="61.255151" longitude="3.019951"/>
+        <vertex id="14" latitude="61.254592" longitude="3.018532"/>
+        <vertex id="15" latitude="61.254176" longitude="3.016915"/>
+        <vertex id="16" latitude="61.253920" longitude="3.015159"/>
+        <vertex id="17" latitude="61.253833" longitude="3.013333"/>
+        <vertex id="18" latitude="61.253920" longitude="3.011508"/>
+        <vertex id="19" latitude="61.254176" longitude="3.009752"/>
+        <vertex id="20" latitude="61.254592" longitude="3.008134"/>
+        <vertex id="21" latitude="61.255151" longitude="3.006716"/>
+        <vertex id="22" latitude="61.255833" longitude="3.005552"/>
+        <vertex id="23" latitude="61.256611" longitude="3.004687"/>
+        <vertex id="24" latitude="61.257455" longitude="3.004155"/>
+        <vertex id="25" latitude="61.258333" longitude="3.003975"/>
+        <vertex id="26" latitude="61.259211" longitude="3.004155"/>
+        <vertex id="27" latitude="61.260055" longitude="3.004687"/>
+        <vertex id="28" latitude="61.260833" longitude="3.005552"/>
+        <vertex id="29" latitude="61.261515" longitude="3.006716"/>
+        <vertex id="30" latitude="61.262075" longitude="3.008134"/>
+        <vertex id="31" latitude="61.262491" longitude="3.009752"/>
+        <vertex id="32" latitude="61.262747" longitude="3.011508"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="61.304500" longitude="2.361667"/>
+        <vertex id="2" latitude="61.304414" longitude="2.363495"/>
+        <vertex id="3" latitude="61.304157" longitude="2.365253"/>
+        <vertex id="4" latitude="61.303742" longitude="2.366873"/>
+        <vertex id="5" latitude="61.303182" longitude="2.368293"/>
+        <vertex id="6" latitude="61.302500" longitude="2.369458"/>
+        <vertex id="7" latitude="61.301722" longitude="2.370324"/>
+        <vertex id="8" latitude="61.300878" longitude="2.370857"/>
+        <vertex id="9" latitude="61.300000" longitude="2.371037"/>
+        <vertex id="10" latitude="61.299122" longitude="2.370857"/>
+        <vertex id="11" latitude="61.298278" longitude="2.370324"/>
+        <vertex id="12" latitude="61.297500" longitude="2.369458"/>
+        <vertex id="13" latitude="61.296818" longitude="2.368293"/>
+        <vertex id="14" latitude="61.296258" longitude="2.366873"/>
+        <vertex id="15" latitude="61.295843" longitude="2.365253"/>
+        <vertex id="16" latitude="61.295586" longitude="2.363495"/>
+        <vertex id="17" latitude="61.295500" longitude="2.361667"/>
+        <vertex id="18" latitude="61.295586" longitude="2.359839"/>
+        <vertex id="19" latitude="61.295843" longitude="2.358081"/>
+        <vertex id="20" latitude="61.296258" longitude="2.356461"/>
+        <vertex id="21" latitude="61.296818" longitude="2.355041"/>
+        <vertex id="22" latitude="61.297500" longitude="2.353875"/>
+        <vertex id="23" latitude="61.298278" longitude="2.353009"/>
+        <vertex id="24" latitude="61.299122" longitude="2.352476"/>
+        <vertex id="25" latitude="61.300000" longitude="2.352296"/>
+        <vertex id="26" latitude="61.300878" longitude="2.352476"/>
+        <vertex id="27" latitude="61.301722" longitude="2.353009"/>
+        <vertex id="28" latitude="61.302500" longitude="2.353875"/>
+        <vertex id="29" latitude="61.303182" longitude="2.355041"/>
+        <vertex id="30" latitude="61.303742" longitude="2.356461"/>
+        <vertex id="31" latitude="61.304157" longitude="2.358081"/>
+        <vertex id="32" latitude="61.304414" longitude="2.359839"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="61.544500" longitude="1.261667"/>
+        <vertex id="2" latitude="61.544414" longitude="1.263509"/>
+        <vertex id="3" latitude="61.544157" longitude="1.265280"/>
+        <vertex id="4" latitude="61.543742" longitude="1.266913"/>
+        <vertex id="5" latitude="61.543182" longitude="1.268344"/>
+        <vertex id="6" latitude="61.542500" longitude="1.269518"/>
+        <vertex id="7" latitude="61.541722" longitude="1.270391"/>
+        <vertex id="8" latitude="61.540878" longitude="1.270928"/>
+        <vertex id="9" latitude="61.540000" longitude="1.271110"/>
+        <vertex id="10" latitude="61.539122" longitude="1.270928"/>
+        <vertex id="11" latitude="61.538278" longitude="1.270391"/>
+        <vertex id="12" latitude="61.537500" longitude="1.269518"/>
+        <vertex id="13" latitude="61.536818" longitude="1.268344"/>
+        <vertex id="14" latitude="61.536258" longitude="1.266913"/>
+        <vertex id="15" latitude="61.535843" longitude="1.265280"/>
+        <vertex id="16" latitude="61.535586" longitude="1.263509"/>
+        <vertex id="17" latitude="61.535500" longitude="1.261667"/>
+        <vertex id="18" latitude="61.535586" longitude="1.259824"/>
+        <vertex id="19" latitude="61.535843" longitude="1.258053"/>
+        <vertex id="20" latitude="61.536258" longitude="1.256420"/>
+        <vertex id="21" latitude="61.536818" longitude="1.254989"/>
+        <vertex id="22" latitude="61.537500" longitude="1.253815"/>
+        <vertex id="23" latitude="61.538278" longitude="1.252943"/>
+        <vertex id="24" latitude="61.539122" longitude="1.252405"/>
+        <vertex id="25" latitude="61.540000" longitude="1.252224"/>
+        <vertex id="26" latitude="61.540878" longitude="1.252405"/>
+        <vertex id="27" latitude="61.541722" longitude="1.252943"/>
+        <vertex id="28" latitude="61.542500" longitude="1.253815"/>
+        <vertex id="29" latitude="61.543182" longitude="1.254989"/>
+        <vertex id="30" latitude="61.543742" longitude="1.256420"/>
+        <vertex id="31" latitude="61.544157" longitude="1.258053"/>
+        <vertex id="32" latitude="61.544414" longitude="1.259824"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="61.634500" longitude="1.495000"/>
+        <vertex id="2" latitude="61.634414" longitude="1.496848"/>
+        <vertex id="3" latitude="61.634157" longitude="1.498624"/>
+        <vertex id="4" latitude="61.633742" longitude="1.500261"/>
+        <vertex id="5" latitude="61.633182" longitude="1.501697"/>
+        <vertex id="6" latitude="61.632500" longitude="1.502874"/>
+        <vertex id="7" latitude="61.631722" longitude="1.503750"/>
+        <vertex id="8" latitude="61.630878" longitude="1.504288"/>
+        <vertex id="9" latitude="61.630000" longitude="1.504470"/>
+        <vertex id="10" latitude="61.629122" longitude="1.504288"/>
+        <vertex id="11" latitude="61.628278" longitude="1.503750"/>
+        <vertex id="12" latitude="61.627500" longitude="1.502874"/>
+        <vertex id="13" latitude="61.626818" longitude="1.501697"/>
+        <vertex id="14" latitude="61.626258" longitude="1.500261"/>
+        <vertex id="15" latitude="61.625843" longitude="1.498624"/>
+        <vertex id="16" latitude="61.625586" longitude="1.496848"/>
+        <vertex id="17" latitude="61.625500" longitude="1.495000"/>
+        <vertex id="18" latitude="61.625586" longitude="1.493152"/>
+        <vertex id="19" latitude="61.625843" longitude="1.491376"/>
+        <vertex id="20" latitude="61.626258" longitude="1.489739"/>
+        <vertex id="21" latitude="61.626818" longitude="1.488303"/>
+        <vertex id="22" latitude="61.627500" longitude="1.487126"/>
+        <vertex id="23" latitude="61.628278" longitude="1.486250"/>
+        <vertex id="24" latitude="61.629122" longitude="1.485712"/>
+        <vertex id="25" latitude="61.630000" longitude="1.485530"/>
+        <vertex id="26" latitude="61.630878" longitude="1.485712"/>
+        <vertex id="27" latitude="61.631722" longitude="1.486250"/>
+        <vertex id="28" latitude="61.632500" longitude="1.487126"/>
+        <vertex id="29" latitude="61.633182" longitude="1.488303"/>
+        <vertex id="30" latitude="61.633742" longitude="1.489739"/>
+        <vertex id="31" latitude="61.634157" longitude="1.491376"/>
+        <vertex id="32" latitude="61.634414" longitude="1.493152"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="64.662833" longitude="7.448333"/>
+        <vertex id="2" latitude="64.662747" longitude="7.450384"/>
+        <vertex id="3" latitude="64.662491" longitude="7.452357"/>
+        <vertex id="4" latitude="64.662075" longitude="7.454174"/>
+        <vertex id="5" latitude="64.661515" longitude="7.455768"/>
+        <vertex id="6" latitude="64.660833" longitude="7.457075"/>
+        <vertex id="7" latitude="64.660055" longitude="7.458047"/>
+        <vertex id="8" latitude="64.659211" longitude="7.458645"/>
+        <vertex id="9" latitude="64.658333" longitude="7.458847"/>
+        <vertex id="10" latitude="64.657455" longitude="7.458645"/>
+        <vertex id="11" latitude="64.656611" longitude="7.458047"/>
+        <vertex id="12" latitude="64.655833" longitude="7.457075"/>
+        <vertex id="13" latitude="64.655151" longitude="7.455768"/>
+        <vertex id="14" latitude="64.654592" longitude="7.454174"/>
+        <vertex id="15" latitude="64.654176" longitude="7.452357"/>
+        <vertex id="16" latitude="64.653920" longitude="7.450384"/>
+        <vertex id="17" latitude="64.653833" longitude="7.448333"/>
+        <vertex id="18" latitude="64.653920" longitude="7.446282"/>
+        <vertex id="19" latitude="64.654176" longitude="7.444310"/>
+        <vertex id="20" latitude="64.654592" longitude="7.442492"/>
+        <vertex id="21" latitude="64.655151" longitude="7.440899"/>
+        <vertex id="22" latitude="64.655833" longitude="7.439592"/>
+        <vertex id="23" latitude="64.656611" longitude="7.438620"/>
+        <vertex id="24" latitude="64.657455" longitude="7.438022"/>
+        <vertex id="25" latitude="64.658333" longitude="7.437820"/>
+        <vertex id="26" latitude="64.659211" longitude="7.438022"/>
+        <vertex id="27" latitude="64.660055" longitude="7.438620"/>
+        <vertex id="28" latitude="64.660833" longitude="7.439592"/>
+        <vertex id="29" latitude="64.661515" longitude="7.440899"/>
+        <vertex id="30" latitude="64.662075" longitude="7.442492"/>
+        <vertex id="31" latitude="64.662491" longitude="7.444310"/>
+        <vertex id="32" latitude="64.662747" longitude="7.446282"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="64.849500" longitude="6.551667"/>
+        <vertex id="2" latitude="64.849414" longitude="6.553732"/>
+        <vertex id="3" latitude="64.849157" longitude="6.555718"/>
+        <vertex id="4" latitude="64.848742" longitude="6.557548"/>
+        <vertex id="5" latitude="64.848182" longitude="6.559152"/>
+        <vertex id="6" latitude="64.847500" longitude="6.560469"/>
+        <vertex id="7" latitude="64.846722" longitude="6.561447"/>
+        <vertex id="8" latitude="64.845878" longitude="6.562050"/>
+        <vertex id="9" latitude="64.845000" longitude="6.562253"/>
+        <vertex id="10" latitude="64.844122" longitude="6.562050"/>
+        <vertex id="11" latitude="64.843278" longitude="6.561447"/>
+        <vertex id="12" latitude="64.842500" longitude="6.560469"/>
+        <vertex id="13" latitude="64.841818" longitude="6.559152"/>
+        <vertex id="14" latitude="64.841258" longitude="6.557548"/>
+        <vertex id="15" latitude="64.840843" longitude="6.555718"/>
+        <vertex id="16" latitude="64.840586" longitude="6.553732"/>
+        <vertex id="17" latitude="64.840500" longitude="6.551667"/>
+        <vertex id="18" latitude="64.840586" longitude="6.549601"/>
+        <vertex id="19" latitude="64.840843" longitude="6.547615"/>
+        <vertex id="20" latitude="64.841258" longitude="6.545785"/>
+        <vertex id="21" latitude="64.841818" longitude="6.544181"/>
+        <vertex id="22" latitude="64.842500" longitude="6.542864"/>
+        <vertex id="23" latitude="64.843278" longitude="6.541886"/>
+        <vertex id="24" latitude="64.844122" longitude="6.541284"/>
+        <vertex id="25" latitude="64.845000" longitude="6.541080"/>
+        <vertex id="26" latitude="64.845878" longitude="6.541284"/>
+        <vertex id="27" latitude="64.846722" longitude="6.541886"/>
+        <vertex id="28" latitude="64.847500" longitude="6.542864"/>
+        <vertex id="29" latitude="64.848182" longitude="6.544181"/>
+        <vertex id="30" latitude="64.848742" longitude="6.545785"/>
+        <vertex id="31" latitude="64.849157" longitude="6.547615"/>
+        <vertex id="32" latitude="64.849414" longitude="6.549601"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="53.532833" longitude="-3.566667"/>
+        <vertex id="2" latitude="53.532747" longitude="-3.565190"/>
+        <vertex id="3" latitude="53.532491" longitude="-3.563770"/>
+        <vertex id="4" latitude="53.532075" longitude="-3.562461"/>
+        <vertex id="5" latitude="53.531515" longitude="-3.561314"/>
+        <vertex id="6" latitude="53.530833" longitude="-3.560372"/>
+        <vertex id="7" latitude="53.530055" longitude="-3.559673"/>
+        <vertex id="8" latitude="53.529211" longitude="-3.559242"/>
+        <vertex id="9" latitude="53.528333" longitude="-3.559096"/>
+        <vertex id="10" latitude="53.527455" longitude="-3.559242"/>
+        <vertex id="11" latitude="53.526611" longitude="-3.559673"/>
+        <vertex id="12" latitude="53.525833" longitude="-3.560372"/>
+        <vertex id="13" latitude="53.525151" longitude="-3.561314"/>
+        <vertex id="14" latitude="53.524592" longitude="-3.562461"/>
+        <vertex id="15" latitude="53.524176" longitude="-3.563770"/>
+        <vertex id="16" latitude="53.523920" longitude="-3.565190"/>
+        <vertex id="17" latitude="53.523833" longitude="-3.566667"/>
+        <vertex id="18" latitude="53.523920" longitude="-3.568144"/>
+        <vertex id="19" latitude="53.524176" longitude="-3.569564"/>
+        <vertex id="20" latitude="53.524592" longitude="-3.570873"/>
+        <vertex id="21" latitude="53.525151" longitude="-3.572020"/>
+        <vertex id="22" latitude="53.525833" longitude="-3.572961"/>
+        <vertex id="23" latitude="53.526611" longitude="-3.573661"/>
+        <vertex id="24" latitude="53.527455" longitude="-3.574092"/>
+        <vertex id="25" latitude="53.528333" longitude="-3.574237"/>
+        <vertex id="26" latitude="53.529211" longitude="-3.574092"/>
+        <vertex id="27" latitude="53.530055" longitude="-3.573661"/>
+        <vertex id="28" latitude="53.530833" longitude="-3.572961"/>
+        <vertex id="29" latitude="53.531515" longitude="-3.572020"/>
+        <vertex id="30" latitude="53.532075" longitude="-3.570873"/>
+        <vertex id="31" latitude="53.532491" longitude="-3.569564"/>
+        <vertex id="32" latitude="53.532747" longitude="-3.568144"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="53.541167" longitude="-3.575000"/>
+        <vertex id="2" latitude="53.541080" longitude="-3.573523"/>
+        <vertex id="3" latitude="53.540824" longitude="-3.572102"/>
+        <vertex id="4" latitude="53.540408" longitude="-3.570793"/>
+        <vertex id="5" latitude="53.539849" longitude="-3.569646"/>
+        <vertex id="6" latitude="53.539167" longitude="-3.568704"/>
+        <vertex id="7" latitude="53.538389" longitude="-3.568005"/>
+        <vertex id="8" latitude="53.537545" longitude="-3.567574"/>
+        <vertex id="9" latitude="53.536667" longitude="-3.567428"/>
+        <vertex id="10" latitude="53.535789" longitude="-3.567574"/>
+        <vertex id="11" latitude="53.534945" longitude="-3.568005"/>
+        <vertex id="12" latitude="53.534167" longitude="-3.568704"/>
+        <vertex id="13" latitude="53.533485" longitude="-3.569646"/>
+        <vertex id="14" latitude="53.532925" longitude="-3.570793"/>
+        <vertex id="15" latitude="53.532509" longitude="-3.572102"/>
+        <vertex id="16" latitude="53.532253" longitude="-3.573523"/>
+        <vertex id="17" latitude="53.532167" longitude="-3.575000"/>
+        <vertex id="18" latitude="53.532253" longitude="-3.576477"/>
+        <vertex id="19" latitude="53.532509" longitude="-3.577898"/>
+        <vertex id="20" latitude="53.532925" longitude="-3.579207"/>
+        <vertex id="21" latitude="53.533485" longitude="-3.580354"/>
+        <vertex id="22" latitude="53.534167" longitude="-3.581296"/>
+        <vertex id="23" latitude="53.534945" longitude="-3.581995"/>
+        <vertex id="24" latitude="53.535789" longitude="-3.582426"/>
+        <vertex id="25" latitude="53.536667" longitude="-3.582572"/>
+        <vertex id="26" latitude="53.537545" longitude="-3.582426"/>
+        <vertex id="27" latitude="53.538389" longitude="-3.581995"/>
+        <vertex id="28" latitude="53.539167" longitude="-3.581296"/>
+        <vertex id="29" latitude="53.539849" longitude="-3.580354"/>
+        <vertex id="30" latitude="53.540408" longitude="-3.579207"/>
+        <vertex id="31" latitude="53.540824" longitude="-3.577898"/>
+        <vertex id="32" latitude="53.541080" longitude="-3.576477"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0227/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="53.604500" longitude="-3.418333"/>
+        <vertex id="2" latitude="53.604414" longitude="-3.416854"/>
+        <vertex id="3" latitude="53.604157" longitude="-3.415431"/>
+        <vertex id="4" latitude="53.603742" longitude="-3.414120"/>
+        <vertex id="5" latitude="53.603182" longitude="-3.412971"/>
+        <vertex id="6" latitude="53.602500" longitude="-3.412028"/>
+        <vertex id="7" latitude="53.601722" longitude="-3.411327"/>
+        <vertex id="8" latitude="53.600878" longitude="-3.410896"/>
+        <vertex id="9" latitude="53.600000" longitude="-3.410750"/>
+        <vertex id="10" latitude="53.599122" longitude="-3.410896"/>
+        <vertex id="11" latitude="53.598278" longitude="-3.411327"/>
+        <vertex id="12" latitude="53.597500" longitude="-3.412028"/>
+        <vertex id="13" latitude="53.596818" longitude="-3.412971"/>
+        <vertex id="14" latitude="53.596258" longitude="-3.414120"/>
+        <vertex id="15" latitude="53.595843" longitude="-3.415431"/>
+        <vertex id="16" latitude="53.595586" longitude="-3.416854"/>
+        <vertex id="17" latitude="53.595500" longitude="-3.418333"/>
+        <vertex id="18" latitude="53.595586" longitude="-3.419813"/>
+        <vertex id="19" latitude="53.595843" longitude="-3.421235"/>
+        <vertex id="20" latitude="53.596258" longitude="-3.422546"/>
+        <vertex id="21" latitude="53.596818" longitude="-3.423695"/>
+        <vertex id="22" latitude="53.597500" longitude="-3.424639"/>
+        <vertex id="23" latitude="53.598278" longitude="-3.425339"/>
+        <vertex id="24" latitude="53.599122" longitude="-3.425771"/>
+        <vertex id="25" latitude="53.600000" longitude="-3.425917"/>
+        <vertex id="26" latitude="53.600878" longitude="-3.425771"/>
+        <vertex id="27" latitude="53.601722" longitude="-3.425339"/>
+        <vertex id="28" latitude="53.602500" longitude="-3.424639"/>
+        <vertex id="29" latitude="53.603182" longitude="-3.423695"/>
+        <vertex id="30" latitude="53.603742" longitude="-3.422546"/>
+        <vertex id="31" latitude="53.604157" longitude="-3.421235"/>
+        <vertex id="32" latitude="53.604414" longitude="-3.419813"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0183/26" description="">
+      <position>
+        <vertex id="1" latitude="65.680000" longitude="5.328333"/>
+        <vertex id="2" latitude="65.703333" longitude="6.871667"/>
+        <vertex id="3" latitude="64.558333" longitude="6.080000"/>
+        <vertex id="4" latitude="64.545000" longitude="4.561667"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+  </areas>
+  <!--userchart label-->
+  <labels>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="52.128333" longitude="3.940000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="53.061667" longitude="3.538333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="53.118333" longitude="2.105000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="53.241667" longitude="4.081667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="53.290000" longitude="1.110000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="53.358333" longitude="3.983333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="53.588333" longitude="2.295000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="53.685000" longitude="6.360000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="54.201667" longitude="1.115000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="54.570000" longitude="2.293333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="54.595000" longitude="0.430000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="56.250000" longitude="3.348333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="56.275000" longitude="3.400000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="56.548333" longitude="3.213333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="57.013333" longitude="1.841667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="57.013333" longitude="1.840000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="57.031667" longitude="1.955000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="57.815000" longitude="4.533333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="57.903333" longitude="0.031667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="58.226667" longitude="1.060000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="58.283333" longitude="2.038333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="58.416667" longitude="1.715000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="58.706667" longitude="1.836667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="58.843333" longitude="1.743333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="58.921667" longitude="2.198333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="59.231667" longitude="2.555000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="59.418333" longitude="2.338333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="59.813333" longitude="2.620000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="60.111667" longitude="2.591667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="60.506667" longitude="2.041667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="61.020000" longitude="2.148333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="61.033333" longitude="1.128333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="61.036667" longitude="-3.748333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="61.123333" longitude="2.243333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="61.258333" longitude="3.013333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="61.300000" longitude="2.361667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="61.540000" longitude="1.261667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="61.630000" longitude="1.495000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="64.658333" longitude="7.448333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="64.845000" longitude="6.551667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="53.528333" longitude="-3.566667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="53.536667" longitude="-3.575000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0227/26" description="NAV I 0227/26">
+      <position>
+        <vertex id="1" latitude="53.600000" longitude="-3.418333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0227/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0061/26" description="NAV I 0061/26">
+      <position>
+        <vertex id="1" latitude="49.000000" longitude="-16.365000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0061/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0061/26" description="NAV I 0061/26">
+      <position>
+        <vertex id="1" latitude="48.938333" longitude="-16.375000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0061/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+  </labels>
+</userchart>

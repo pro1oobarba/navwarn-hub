@@ -1,0 +1,542 @@
+// USER CHART SHEET exported by JRC ECDIS.
+// <<NOTE>>This strings // indicate comment column/cells. You can edit freely.
+// Navarea I - in force - 20261015_2258
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: SEAFOX 4 ACP P18-A
+52,07.700,N,003,56.400,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: SEAFOX 4 ACP P18-A - 500m safety zone
+52,07.700,N,003,56.400,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: SHELF DRILLING WINNER ACP K17-FA-1
+53,03.700,N,003,32.300,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: SHELF DRILLING WINNER ACP K17-FA-1 - 500m s
+53,03.700,N,003,32.300,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: ENSCO 92 ACP LEMAN GAS FIELD
+53,07.100,N,002,06.300,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: ENSCO 92 ACP LEMAN GAS FIELD - 500m safety 
+53,07.100,N,002,06.300,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: TRITON 10 (EX NOBLE REACHER) ACP L13-FI-1
+53,14.500,N,004,04.900,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: TRITON 10 (EX NOBLE REACHER) ACP L13-FI-1 -
+53,14.500,N,004,04.900,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: HAEVA
+53,17.400,N,001,06.600,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: HAEVA - 500m safety zone
+53,17.400,N,001,06.600,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: NOBLE RESOLUTE ACP K12-G
+53,21.500,N,003,59.000,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: NOBLE RESOLUTE ACP K12-G - 500m safety zone
+53,21.500,N,003,59.000,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: OBANA ACP WENLOCK PLATFORM
+53,35.300,N,002,17.700,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: OBANA ACP WENLOCK PLATFORM - 500m safety zo
+53,35.300,N,002,17.700,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: PROSPECTOR 1 ACP N05-A
+53,41.100,N,006,21.600,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: PROSPECTOR 1 ACP N05-A - 500m safety zone
+53,41.100,N,006,21.600,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: NOBLE INTREPID
+54,12.100,N,001,06.900,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: NOBLE INTREPID - 500m safety zone
+54,12.100,N,001,06.900,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: VALARIS NORWAY ACP CYGNUS GAS FIELD
+54,34.200,N,002,17.600,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: VALARIS NORWAY ACP CYGNUS GAS FIELD - 500m 
+54,34.200,N,002,17.600,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: VALARIS 122 ACP BREAGH PLATFORM
+54,35.700,N,000,25.800,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: VALARIS 122 ACP BREAGH PLATFORM - 500m safe
+54,35.700,N,000,25.800,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: NOBLE INTEGRATOR ACP HUGIN A
+56,15.000,N,003,20.900,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: NOBLE INTEGRATOR ACP HUGIN A - 500m safety 
+56,15.000,N,003,20.900,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: NOBLE INTERCEPTOR ACP VALHALL PLATFORM
+56,16.500,N,003,24.000,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: NOBLE INTERCEPTOR ACP VALHALL PLATFORM - 50
+56,16.500,N,003,24.000,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: LINUS ACP EKOFISK COMPLEX
+56,32.900,N,003,12.800,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: LINUS ACP EKOFISK COMPLEX - 500m safety zon
+56,32.900,N,003,12.800,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: SHELF DRILLING FORTRESS ACP ELGIN GAS FIELD
+57,00.800,N,001,50.500,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: SHELF DRILLING FORTRESS ACP ELGIN GAS FIELD
+57,00.800,N,001,50.500,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: VALARIS STAVANGER ACP ELGIN GAS FIELD
+57,00.800,N,001,50.400,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: VALARIS STAVANGER ACP ELGIN GAS FIELD - 500
+57,00.800,N,001,50.400,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: VALARIS 121 ACP SHEARWATER OIL FIELD
+57,01.900,N,001,57.300,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: VALARIS 121 ACP SHEARWATER OIL FIELD - 500m
+57,01.900,N,001,57.300,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: MAERSK INSPIRER ACP YME OIL FIELD
+57,48.900,N,004,32.000,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: MAERSK INSPIRER ACP YME OIL FIELD - 500m sa
+57,48.900,N,004,32.000,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: WELL SAFE GUARDIAN
+57,54.200,N,000,01.900,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: WELL SAFE GUARDIAN - 500m safety zone
+57,54.200,N,000,01.900,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: PAUL B LOYD JR
+58,13.600,N,001,03.600,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: PAUL B LOYD JR - 500m safety zone
+58,13.600,N,001,03.600,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: COSL PROMOTER
+58,17.000,N,002,02.300,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: COSL PROMOTER - 500m safety zone
+58,17.000,N,002,02.300,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: WEST ELARA ACP SLEIPNER B 15/9-B
+58,25.000,N,001,42.900,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: WEST ELARA ACP SLEIPNER B 15/9-B - 500m saf
+58,25.000,N,001,42.900,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: DEEPSEA NORDKAPP
+58,42.400,N,001,50.200,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: DEEPSEA NORDKAPP - 500m safety zone
+58,42.400,N,001,50.200,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: SHELF DRILLING BARSK ACP GUDRUN OIL AND GAS
+58,50.600,N,001,44.600,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: SHELF DRILLING BARSK ACP GUDRUN OIL AND GAS
+58,50.600,N,001,44.600,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: NOBLE INVINCIBLE ACP IVAR AASEN
+58,55.300,N,002,11.900,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: NOBLE INVINCIBLE ACP IVAR AASEN - 500m safe
+58,55.300,N,002,11.900,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: DEEPSEA ABERDEEN
+59,13.900,N,002,33.300,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: DEEPSEA ABERDEEN - 500m safety zone
+59,13.900,N,002,33.300,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: COSL PIONEER
+59,25.100,N,002,20.300,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: COSL PIONEER - 500m safety zone
+59,25.100,N,002,20.300,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: SCARABEO 8
+59,48.800,N,002,37.200,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: SCARABEO 8 - 500m safety zone
+59,48.800,N,002,37.200,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: DEEPSEA STAVANGER ACP MUNIN
+60,06.700,N,002,35.500,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: DEEPSEA STAVANGER ACP MUNIN - 500m safety z
+60,06.700,N,002,35.500,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: ASKEPOTT
+60,30.400,N,002,02.500,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: ASKEPOTT - 500m safety zone
+60,30.400,N,002,02.500,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: COSL INNOVATOR
+61,01.200,N,002,08.900,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: COSL INNOVATOR - 500m safety zone
+61,01.200,N,002,08.900,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: NOBLE PATRIOT
+61,02.000,N,001,07.700,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: NOBLE PATRIOT - 500m safety zone
+61,02.000,N,001,07.700,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: DEEPSEA ATLANTIC
+61,02.200,N,003,44.900,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: DEEPSEA ATLANTIC - 500m safety zone
+61,02.200,N,003,44.900,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: ASKELADDEN
+61,07.400,N,002,14.600,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: ASKELADDEN - 500m safety zone
+61,07.400,N,002,14.600,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: DEEPSEA YANTAI
+61,15.500,N,003,00.800,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: DEEPSEA YANTAI - 500m safety zone
+61,15.500,N,003,00.800,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: DEEPSEA BERGEN (EX BOLLSTA)
+61,18.000,N,002,21.700,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: DEEPSEA BERGEN (EX BOLLSTA) - 500m safety z
+61,18.000,N,002,21.700,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: WELL SAFE DEFENDER
+61,32.400,N,001,15.700,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: WELL SAFE DEFENDER - 500m safety zone
+61,32.400,N,001,15.700,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: STENA DON
+61,37.800,N,001,29.700,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: STENA DON - 500m safety zone
+61,37.800,N,001,29.700,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: COSL PROSPECTOR
+64,39.500,N,007,26.900,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: COSL PROSPECTOR - 500m safety zone
+64,39.500,N,007,26.900,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: TRANSOCEAN SPITSBERGEN
+64,50.700,N,006,33.100,E
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: TRANSOCEAN SPITSBERGEN - 500m safety zone
+64,50.700,N,006,33.100,E,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: VALARIS 72 (EX ENSCO)
+53,31.700,N,003,34.000,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: VALARIS 72 (EX ENSCO) - 500m safety zone
+53,31.700,N,003,34.000,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: SEAFOX 7 ACP DOUGLAS OIL FIELD
+53,32.200,N,003,34.500,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: SEAFOX 7 ACP DOUGLAS OIL FIELD - 500m safet
+53,32.200,N,003,34.500,W,0.27
+// DANGER_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+DANGER_SYMBOL,~WARNSY0,***,***
+NAV I 0227/26 - RIG: VALARIS 120
+53,36.000,N,003,25.100,W
+// CIRCLE
+// Comment
+// Base Point-Lat,,,Base Point-Lon,,,Radius[nm]
+CIRCLE
+NAV I 0227/26 - RIG: VALARIS 120 - 500m safety zone
+53,36.000,N,003,25.100,W,0.27
+// POLYGON
+// Comment
+// Lat,,,Lon,Add "END" to the end of vertex.
+POLYGON
+NAV I 0183/26 NORWEGIAN SEA. TSS OFF TRAENA TO TSS OFF HALTEN WE
+65,40.800,N,005,19.700,E
+65,42.200,N,006,52.300,E
+64,33.500,N,006,04.800,E
+64,32.700,N,004,33.700,E
+65,40.800,N,005,19.700,E
+END
+// CAUTION_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+CAUTION_SYMBOL,~WARNSY0,***,***
+NAV I 0061/26 PAP ODAS BUOY 49-00.00N 016-21.90W MOVED TO 48-56.
+49,00.000,N,016,21.900,W
+// CAUTION_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+CAUTION_SYMBOL,~WARNSY0,***,***
+NAV I 0061/26 PAP ODAS BUOY 49-00.00N 016-21.90W MOVED TO 48-56.
+48,56.300,N,016,22.500,W
