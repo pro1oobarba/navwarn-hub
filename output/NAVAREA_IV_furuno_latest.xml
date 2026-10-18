@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--userchart node-->
-<userchart name="NAVAREA IV - in force - 20261017_0102" description="" version="1.0">
+<userchart name="NAVAREA IV - in force - 20261018_0259" description="" version="1.0">
   <!--userchart line-->
   <lines>
-    <line name="NAV IV 1002/26" description="">
+    <line name="NAV IV 1004/26" description="">
       <position>
         <vertex id="1" latitude="48.616667" longitude="-53.100000"/>
-        <vertex id="2" latitude="51.500000" longitude="-49.750000"/>
-        <vertex id="3" latitude="52.750000" longitude="-49.750000"/>
+        <vertex id="2" latitude="51.500000" longitude="-50.250000"/>
+        <vertex id="3" latitude="52.750000" longitude="-50.250000"/>
         <vertex id="4" latitude="60.000000" longitude="-58.000000"/>
       </position>
       <attribute lineType="2"/>
       <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
     </line>
-    <line name="NAV IV 1002/26" description="">
+    <line name="NAV IV 1004/26" description="">
       <position>
         <vertex id="1" latitude="60.000000" longitude="-58.000000"/>
         <vertex id="2" latitude="61.416667" longitude="-54.750000"/>
@@ -25,7 +25,7 @@
       <attribute lineType="2"/>
       <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
     </line>
-    <line name="NAV IV 1002/26" description="">
+    <line name="NAV IV 1004/26" description="">
       <position>
         <vertex id="1" latitude="51.466667" longitude="-57.833333"/>
         <vertex id="2" latitude="50.783333" longitude="-57.050000"/>
@@ -4175,13 +4175,6 @@
         <vertex id="1" latitude="41.713333" longitude="-70.505000"/>
       </position>
       <attribute labelStyle="2" labelText="NAV IV 0995/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV IV 0994/26" description="NAV IV 0994/26">
-      <position>
-        <vertex id="1" latitude="29.370667" longitude="-88.256000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV IV 0994/26"/>
       <type checkDanger="0" displayRadar="0"/>
     </label>
     <label name="NAV IV 0982/26" description="NAV IV 0982/26">
