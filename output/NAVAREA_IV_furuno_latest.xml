@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--userchart node-->
-<userchart name="NAVAREA IV - in force - 20261019_0717" description="" version="1.0">
+<userchart name="NAVAREA IV - in force - 20261020_0846" description="" version="1.0">
   <!--userchart line-->
   <lines>
-    <line name="NAV IV 1006/26" description="">
+    <line name="NAV IV 1008/26" description="">
       <position>
-        <vertex id="1" latitude="48.000000" longitude="-53.683333"/>
-        <vertex id="2" latitude="49.250000" longitude="-51.500000"/>
-        <vertex id="3" latitude="51.250000" longitude="-50.000000"/>
-        <vertex id="4" latitude="52.250000" longitude="-50.000000"/>
-        <vertex id="5" latitude="60.000000" longitude="-58.000000"/>
+        <vertex id="1" latitude="10.096667" longitude="-60.136667"/>
+        <vertex id="2" latitude="10.365167" longitude="-60.603667"/>
+        <vertex id="3" latitude="10.122000" longitude="-60.311167"/>
       </position>
       <attribute lineType="2"/>
       <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
     </line>
-    <line name="NAV IV 1006/26" description="">
+    <line name="NAV IV 1007/26" description="">
+      <position>
+        <vertex id="1" latitude="48.000000" longitude="-53.683333"/>
+        <vertex id="2" latitude="48.500000" longitude="-52.000000"/>
+        <vertex id="3" latitude="51.750000" longitude="-49.500000"/>
+        <vertex id="4" latitude="60.000000" longitude="-58.000000"/>
+      </position>
+      <attribute lineType="2"/>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
+    </line>
+    <line name="NAV IV 1007/26" description="">
       <position>
         <vertex id="1" latitude="60.000000" longitude="-58.000000"/>
         <vertex id="2" latitude="61.416667" longitude="-54.750000"/>
@@ -26,7 +34,7 @@
       <attribute lineType="2"/>
       <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
     </line>
-    <line name="NAV IV 1006/26" description="">
+    <line name="NAV IV 1007/26" description="">
       <position>
         <vertex id="1" latitude="51.466667" longitude="-57.833333"/>
         <vertex id="2" latitude="50.783333" longitude="-57.050000"/>
