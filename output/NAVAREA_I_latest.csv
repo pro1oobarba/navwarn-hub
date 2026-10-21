@@ -1,6 +1,12 @@
 // USER CHART SHEET exported by JRC ECDIS.
 // <<NOTE>>This strings // indicate comment column/cells. You can edit freely.
-// Navarea I - in force - 20261020_0846
+// Navarea I - in force - 20261021_1109
+// CAUTION_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+CAUTION_SYMBOL,~WARNSY0,***,***
+NAV I 0231/26 GMDSS. BALTIC SEA. GISLOEVSHAMMAR NAVTEX STATION (
+55,29.000,N,014,19.000,E
 // DANGER_SYMBOL,InstName
 // Comment
 // Lat,,,Lon
