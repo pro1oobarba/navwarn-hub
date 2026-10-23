@@ -1,6 +1,6 @@
 // USER CHART SHEET exported by JRC ECDIS.
 // <<NOTE>>This strings // indicate comment column/cells. You can edit freely.
-// Navarea I - in force - 20261022_1419
+// Navarea I - in force - 20261023_1541
 // DANGER_SYMBOL,InstName
 // Comment
 // Lat,,,Lon
@@ -520,11 +520,11 @@ END
 // Comment
 // Lat,,,Lon
 CAUTION_SYMBOL,~WARNSY0,***,***
-NAV I 0061/26 PAP ODAS BUOY 49-00.0N 016-21.9W MOVED TO 48-56.3N
+NAV I 0061/26 PAP ODAS BUOY 49-00.00N 016-21.90W MOVED TO 48-56.
 49,00.000,N,016,21.900,W
 // CAUTION_SYMBOL,InstName
 // Comment
 // Lat,,,Lon
 CAUTION_SYMBOL,~WARNSY0,***,***
-NAV I 0061/26 PAP ODAS BUOY 49-00.0N 016-21.9W MOVED TO 48-56.3N
+NAV I 0061/26 PAP ODAS BUOY 49-00.00N 016-21.90W MOVED TO 48-56.
 48,56.300,N,016,22.500,W
