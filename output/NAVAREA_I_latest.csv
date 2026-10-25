@@ -1,6 +1,12 @@
 // USER CHART SHEET exported by JRC ECDIS.
 // <<NOTE>>This strings // indicate comment column/cells. You can edit freely.
-// Navarea I - in force - 20261024_1748
+// Navarea I - in force - 20261025_1806
+// CAUTION_SYMBOL,InstName
+// Comment
+// Lat,,,Lon
+CAUTION_SYMBOL,~WARNSY0,***,***
+NAV I 0234/26 GMDSS. WESTERN APPROACHES TO THE UNITED KINGDOM AN
+55,22.000,N,007,20.000,W
 // DANGER_SYMBOL,InstName
 // Comment
 // Lat,,,Lon

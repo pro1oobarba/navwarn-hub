@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--userchart node-->
-<userchart name="NAVAREA IV - in force - 20261024_1748" description="" version="1.0">
+<userchart name="NAVAREA IV - in force - 20261025_1806" description="" version="1.0">
   <!--userchart line-->
   <lines>
+    <line name="NAV IV 1029/26" description="">
+      <position>
+        <vertex id="1" latitude="50.500000" longitude="-56.500000"/>
+        <vertex id="2" latitude="50.500000" longitude="-55.000000"/>
+        <vertex id="3" latitude="52.250000" longitude="-52.750000"/>
+        <vertex id="4" latitude="55.000000" longitude="-52.500000"/>
+        <vertex id="5" latitude="60.000000" longitude="-58.000000"/>
+      </position>
+      <attribute lineType="2"/>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
+    </line>
+    <line name="NAV IV 1029/26" description="">
+      <position>
+        <vertex id="1" latitude="60.000000" longitude="-58.000000"/>
+        <vertex id="2" latitude="61.416667" longitude="-54.750000"/>
+        <vertex id="3" latitude="58.916667" longitude="-45.250000"/>
+        <vertex id="4" latitude="59.416667" longitude="-41.583333"/>
+        <vertex id="5" latitude="64.416667" longitude="-36.333333"/>
+        <vertex id="6" latitude="65.000000" longitude="-28.000000"/>
+      </position>
+      <attribute lineType="2"/>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
+    </line>
+    <line name="NAV IV 1029/26" description="">
+      <position>
+        <vertex id="1" latitude="51.466667" longitude="-57.833333"/>
+        <vertex id="2" latitude="50.783333" longitude="-57.050000"/>
+      </position>
+      <attribute lineType="2"/>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" rangeOfNotes="1.000000"/>
+    </line>
     <line name="NAV IV 1028/26" description="">
       <position>
         <vertex id="1" latitude="50.500000" longitude="-56.500000"/>
