@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--userchart node-->
-<userchart name="NAVAREA I - in force - 20261025_1806" description="" version="1.0">
+<userchart name="NAVAREA I - in force - 20261026_1943" description="" version="1.0">
   <!--userchart line-->
   <lines>
   </lines>
   <!--userchart area-->
   <areas>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="52.132833" longitude="3.940000"/>
         <vertex id="2" latitude="52.132747" longitude="3.941430"/>
@@ -43,7 +43,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="53.036167" longitude="2.220000"/>
         <vertex id="2" latitude="53.036080" longitude="2.221460"/>
@@ -80,7 +80,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="53.066167" longitude="3.538333"/>
         <vertex id="2" latitude="53.066080" longitude="3.539794"/>
@@ -117,7 +117,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="53.122833" longitude="2.105000"/>
         <vertex id="2" latitude="53.122747" longitude="2.106463"/>
@@ -154,7 +154,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="53.246167" longitude="4.081667"/>
         <vertex id="2" latitude="53.246080" longitude="4.083134"/>
@@ -191,7 +191,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="53.294500" longitude="1.110000"/>
         <vertex id="2" latitude="53.294414" longitude="1.111469"/>
@@ -228,7 +228,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="53.362833" longitude="3.983333"/>
         <vertex id="2" latitude="53.362747" longitude="3.984804"/>
@@ -265,7 +265,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="53.689500" longitude="6.360000"/>
         <vertex id="2" latitude="53.689414" longitude="6.361482"/>
@@ -302,7 +302,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="54.206167" longitude="1.115000"/>
         <vertex id="2" latitude="54.206080" longitude="1.116501"/>
@@ -339,7 +339,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="54.574500" longitude="2.293333"/>
         <vertex id="2" latitude="54.574414" longitude="2.294848"/>
@@ -376,7 +376,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="54.599500" longitude="0.430000"/>
         <vertex id="2" latitude="54.599414" longitude="0.431515"/>
@@ -413,7 +413,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="56.254500" longitude="3.348333"/>
         <vertex id="2" latitude="56.254414" longitude="3.349914"/>
@@ -450,7 +450,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="56.279500" longitude="3.400000"/>
         <vertex id="2" latitude="56.279414" longitude="3.401581"/>
@@ -487,7 +487,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="56.552833" longitude="3.213333"/>
         <vertex id="2" latitude="56.552747" longitude="3.214926"/>
@@ -524,7 +524,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="57.017833" longitude="1.841667"/>
         <vertex id="2" latitude="57.017747" longitude="1.843279"/>
@@ -561,7 +561,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="57.017833" longitude="1.840000"/>
         <vertex id="2" latitude="57.017747" longitude="1.841612"/>
@@ -598,7 +598,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="57.036167" longitude="1.955000"/>
         <vertex id="2" latitude="57.036080" longitude="1.956613"/>
@@ -635,7 +635,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="57.819500" longitude="4.533333"/>
         <vertex id="2" latitude="57.819414" longitude="4.534982"/>
@@ -672,7 +672,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="57.907833" longitude="0.031667"/>
         <vertex id="2" latitude="57.907747" longitude="0.033319"/>
@@ -709,7 +709,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="58.231167" longitude="1.060000"/>
         <vertex id="2" latitude="58.231080" longitude="1.061667"/>
@@ -746,7 +746,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="58.421167" longitude="1.715000"/>
         <vertex id="2" latitude="58.421080" longitude="1.716676"/>
@@ -783,44 +783,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
-      <position>
-        <vertex id="1" latitude="58.711167" longitude="1.836667"/>
-        <vertex id="2" latitude="58.711080" longitude="1.838357"/>
-        <vertex id="3" latitude="58.710824" longitude="1.839982"/>
-        <vertex id="4" latitude="58.710408" longitude="1.841480"/>
-        <vertex id="5" latitude="58.709849" longitude="1.842793"/>
-        <vertex id="6" latitude="58.709167" longitude="1.843870"/>
-        <vertex id="7" latitude="58.708389" longitude="1.844671"/>
-        <vertex id="8" latitude="58.707545" longitude="1.845164"/>
-        <vertex id="9" latitude="58.706667" longitude="1.845330"/>
-        <vertex id="10" latitude="58.705789" longitude="1.845164"/>
-        <vertex id="11" latitude="58.704945" longitude="1.844671"/>
-        <vertex id="12" latitude="58.704167" longitude="1.843870"/>
-        <vertex id="13" latitude="58.703485" longitude="1.842793"/>
-        <vertex id="14" latitude="58.702925" longitude="1.841480"/>
-        <vertex id="15" latitude="58.702509" longitude="1.839982"/>
-        <vertex id="16" latitude="58.702253" longitude="1.838357"/>
-        <vertex id="17" latitude="58.702167" longitude="1.836667"/>
-        <vertex id="18" latitude="58.702253" longitude="1.834976"/>
-        <vertex id="19" latitude="58.702509" longitude="1.833351"/>
-        <vertex id="20" latitude="58.702925" longitude="1.831853"/>
-        <vertex id="21" latitude="58.703485" longitude="1.830541"/>
-        <vertex id="22" latitude="58.704167" longitude="1.829463"/>
-        <vertex id="23" latitude="58.704945" longitude="1.828663"/>
-        <vertex id="24" latitude="58.705789" longitude="1.828170"/>
-        <vertex id="25" latitude="58.706667" longitude="1.828003"/>
-        <vertex id="26" latitude="58.707545" longitude="1.828170"/>
-        <vertex id="27" latitude="58.708389" longitude="1.828663"/>
-        <vertex id="28" latitude="58.709167" longitude="1.829463"/>
-        <vertex id="29" latitude="58.709849" longitude="1.830541"/>
-        <vertex id="30" latitude="58.710408" longitude="1.831853"/>
-        <vertex id="31" latitude="58.710824" longitude="1.833351"/>
-        <vertex id="32" latitude="58.711080" longitude="1.834976"/>
-      </position>
-      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
-    </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="58.847833" longitude="1.743333"/>
         <vertex id="2" latitude="58.847747" longitude="1.745030"/>
@@ -857,7 +820,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="58.926167" longitude="2.198333"/>
         <vertex id="2" latitude="58.926080" longitude="2.200034"/>
@@ -894,7 +857,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="59.269500" longitude="2.605000"/>
         <vertex id="2" latitude="59.269414" longitude="2.606718"/>
@@ -931,7 +894,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="59.422833" longitude="2.338333"/>
         <vertex id="2" latitude="59.422747" longitude="2.340059"/>
@@ -968,7 +931,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="59.817833" longitude="2.620000"/>
         <vertex id="2" latitude="59.817747" longitude="2.621746"/>
@@ -1005,7 +968,44 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
+      <position>
+        <vertex id="1" latitude="59.897833" longitude="2.411667"/>
+        <vertex id="2" latitude="59.897747" longitude="2.413417"/>
+        <vertex id="3" latitude="59.897491" longitude="2.415100"/>
+        <vertex id="4" latitude="59.897075" longitude="2.416651"/>
+        <vertex id="5" latitude="59.896515" longitude="2.418010"/>
+        <vertex id="6" latitude="59.895833" longitude="2.419126"/>
+        <vertex id="7" latitude="59.895055" longitude="2.419955"/>
+        <vertex id="8" latitude="59.894211" longitude="2.420465"/>
+        <vertex id="9" latitude="59.893333" longitude="2.420638"/>
+        <vertex id="10" latitude="59.892455" longitude="2.420465"/>
+        <vertex id="11" latitude="59.891611" longitude="2.419955"/>
+        <vertex id="12" latitude="59.890833" longitude="2.419126"/>
+        <vertex id="13" latitude="59.890151" longitude="2.418010"/>
+        <vertex id="14" latitude="59.889592" longitude="2.416651"/>
+        <vertex id="15" latitude="59.889176" longitude="2.415100"/>
+        <vertex id="16" latitude="59.888920" longitude="2.413417"/>
+        <vertex id="17" latitude="59.888833" longitude="2.411667"/>
+        <vertex id="18" latitude="59.888920" longitude="2.409916"/>
+        <vertex id="19" latitude="59.889176" longitude="2.408234"/>
+        <vertex id="20" latitude="59.889592" longitude="2.406683"/>
+        <vertex id="21" latitude="59.890151" longitude="2.405323"/>
+        <vertex id="22" latitude="59.890833" longitude="2.404207"/>
+        <vertex id="23" latitude="59.891611" longitude="2.403378"/>
+        <vertex id="24" latitude="59.892455" longitude="2.402868"/>
+        <vertex id="25" latitude="59.893333" longitude="2.402696"/>
+        <vertex id="26" latitude="59.894211" longitude="2.402868"/>
+        <vertex id="27" latitude="59.895055" longitude="2.403378"/>
+        <vertex id="28" latitude="59.895833" longitude="2.404207"/>
+        <vertex id="29" latitude="59.896515" longitude="2.405323"/>
+        <vertex id="30" latitude="59.897075" longitude="2.406683"/>
+        <vertex id="31" latitude="59.897491" longitude="2.408234"/>
+        <vertex id="32" latitude="59.897747" longitude="2.409916"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="60.116167" longitude="2.591667"/>
         <vertex id="2" latitude="60.116080" longitude="2.593428"/>
@@ -1042,7 +1042,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="60.511167" longitude="2.041667"/>
         <vertex id="2" latitude="60.511080" longitude="2.043450"/>
@@ -1079,7 +1079,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="61.024500" longitude="2.148333"/>
         <vertex id="2" latitude="61.024414" longitude="2.150145"/>
@@ -1116,7 +1116,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="61.037833" longitude="1.128333"/>
         <vertex id="2" latitude="61.037747" longitude="1.130146"/>
@@ -1153,7 +1153,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="61.041167" longitude="-3.748333"/>
         <vertex id="2" latitude="61.041080" longitude="-3.746520"/>
@@ -1190,7 +1190,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="61.042833" longitude="3.573333"/>
         <vertex id="2" latitude="61.042747" longitude="3.575146"/>
@@ -1227,7 +1227,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="61.127833" longitude="2.243333"/>
         <vertex id="2" latitude="61.127747" longitude="2.245151"/>
@@ -1264,7 +1264,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="61.262833" longitude="3.013333"/>
         <vertex id="2" latitude="61.262747" longitude="3.015159"/>
@@ -1301,7 +1301,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="61.304500" longitude="2.361667"/>
         <vertex id="2" latitude="61.304414" longitude="2.363495"/>
@@ -1338,7 +1338,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="61.634500" longitude="1.495000"/>
         <vertex id="2" latitude="61.634414" longitude="1.496848"/>
@@ -1375,7 +1375,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="64.662833" longitude="7.448333"/>
         <vertex id="2" latitude="64.662747" longitude="7.450384"/>
@@ -1412,7 +1412,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="64.849500" longitude="6.551667"/>
         <vertex id="2" latitude="64.849414" longitude="6.553732"/>
@@ -1449,7 +1449,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="53.521167" longitude="-3.570000"/>
         <vertex id="2" latitude="53.521080" longitude="-3.568524"/>
@@ -1486,7 +1486,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="53.604500" longitude="-3.418333"/>
         <vertex id="2" latitude="53.604414" longitude="-3.416854"/>
@@ -1523,7 +1523,7 @@
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
-    <area name="NAV I 0230/26 500m zone" description="">
+    <area name="NAV I 0235/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="53.651167" longitude="-3.476667"/>
         <vertex id="2" latitude="53.651080" longitude="-3.475186"/>
@@ -1572,305 +1572,305 @@
   </areas>
   <!--userchart label-->
   <labels>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="52.128333" longitude="3.940000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="53.031667" longitude="2.220000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="53.061667" longitude="3.538333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="53.118333" longitude="2.105000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="53.241667" longitude="4.081667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="53.290000" longitude="1.110000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="53.358333" longitude="3.983333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="53.685000" longitude="6.360000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="54.201667" longitude="1.115000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="54.570000" longitude="2.293333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="54.595000" longitude="0.430000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="56.250000" longitude="3.348333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="56.275000" longitude="3.400000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="56.548333" longitude="3.213333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="57.013333" longitude="1.841667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="57.013333" longitude="1.840000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="57.031667" longitude="1.955000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="57.815000" longitude="4.533333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="57.903333" longitude="0.031667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="58.226667" longitude="1.060000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="58.416667" longitude="1.715000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="58.843333" longitude="1.743333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="58.921667" longitude="2.198333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="59.265000" longitude="2.605000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="59.418333" longitude="2.338333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="59.813333" longitude="2.620000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="59.893333" longitude="2.411667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="60.111667" longitude="2.591667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="60.506667" longitude="2.041667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="61.020000" longitude="2.148333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="61.033333" longitude="1.128333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="61.036667" longitude="-3.748333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="61.038333" longitude="3.573333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="61.123333" longitude="2.243333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="61.258333" longitude="3.013333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="61.300000" longitude="2.361667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="61.630000" longitude="1.495000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="64.658333" longitude="7.448333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="64.845000" longitude="6.551667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="53.516667" longitude="-3.570000"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="53.600000" longitude="-3.418333"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
+    <label name="NAV I 0235/26" description="NAV I 0235/26">
+      <position>
+        <vertex id="1" latitude="53.646667" longitude="-3.476667"/>
+      </position>
+      <attribute labelStyle="2" labelText="NAV I 0235/26"/>
+      <type checkDanger="0" displayRadar="0"/>
+    </label>
     <label name="NAV I 0234/26" description="NAV I 0234/26">
       <position>
         <vertex id="1" latitude="55.366667" longitude="-7.333333"/>
       </position>
       <attribute labelStyle="2" labelText="NAV I 0234/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="52.128333" longitude="3.940000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="53.031667" longitude="2.220000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="53.061667" longitude="3.538333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="53.118333" longitude="2.105000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="53.241667" longitude="4.081667"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="53.290000" longitude="1.110000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="53.358333" longitude="3.983333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="53.685000" longitude="6.360000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="54.201667" longitude="1.115000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="54.570000" longitude="2.293333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="54.595000" longitude="0.430000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="56.250000" longitude="3.348333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="56.275000" longitude="3.400000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="56.548333" longitude="3.213333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="57.013333" longitude="1.841667"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="57.013333" longitude="1.840000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="57.031667" longitude="1.955000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="57.815000" longitude="4.533333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="57.903333" longitude="0.031667"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="58.226667" longitude="1.060000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="58.416667" longitude="1.715000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="58.706667" longitude="1.836667"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="58.843333" longitude="1.743333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="58.921667" longitude="2.198333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="59.265000" longitude="2.605000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="59.418333" longitude="2.338333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="59.813333" longitude="2.620000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="60.111667" longitude="2.591667"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="60.506667" longitude="2.041667"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="61.020000" longitude="2.148333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="61.033333" longitude="1.128333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="61.036667" longitude="-3.748333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="61.038333" longitude="3.573333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="61.123333" longitude="2.243333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="61.258333" longitude="3.013333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="61.300000" longitude="2.361667"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="61.630000" longitude="1.495000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="64.658333" longitude="7.448333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="64.845000" longitude="6.551667"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="53.516667" longitude="-3.570000"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="53.600000" longitude="-3.418333"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
-      <type checkDanger="0" displayRadar="0"/>
-    </label>
-    <label name="NAV I 0230/26" description="NAV I 0230/26">
-      <position>
-        <vertex id="1" latitude="53.646667" longitude="-3.476667"/>
-      </position>
-      <attribute labelStyle="2" labelText="NAV I 0230/26"/>
       <type checkDanger="0" displayRadar="0"/>
     </label>
     <label name="NAV I 0061/26" description="NAV I 0061/26">
