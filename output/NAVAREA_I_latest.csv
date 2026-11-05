@@ -1,12 +1,6 @@
 // USER CHART SHEET exported by JRC ECDIS.
 // <<NOTE>>This strings // indicate comment column/cells. You can edit freely.
-// Navarea I - in force - 20261104_2123
-// CAUTION_SYMBOL,InstName
-// Comment
-// Lat,,,Lon
-CAUTION_SYMBOL,~WARNSY0,***,***
-NAV I 0239/26 DERELICT 18 METRE TRIMARAN OCEANS SOLO SAILOR ADRI
-49,41.000,N,013,57.000,W
+// Navarea I - in force - 20261105_2245
 // DANGER_SYMBOL,InstName
 // Comment
 // Lat,,,Lon
