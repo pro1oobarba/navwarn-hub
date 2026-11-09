@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--userchart node-->
-<userchart name="NAVAREA I - in force - 20261107_2347" description="" version="1.0">
+<userchart name="NAVAREA I - in force - 20261109_0106" description="" version="1.0">
   <!--userchart line-->
   <lines>
   </lines>
@@ -1557,15 +1557,6 @@
         <vertex id="30" latitude="53.650408" longitude="-3.480884"/>
         <vertex id="31" latitude="53.650824" longitude="-3.479572"/>
         <vertex id="32" latitude="53.651080" longitude="-3.478148"/>
-      </position>
-      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
-    </area>
-    <area name="NAV I 0183/26" description="">
-      <position>
-        <vertex id="1" latitude="65.680000" longitude="5.328333"/>
-        <vertex id="2" latitude="65.703333" longitude="6.871667"/>
-        <vertex id="3" latitude="64.558333" longitude="6.080000"/>
-        <vertex id="4" latitude="64.545000" longitude="4.561667"/>
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
