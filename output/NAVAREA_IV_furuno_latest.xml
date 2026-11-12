@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--userchart node-->
-<userchart name="NAVAREA IV - in force - 20261111_0209" description="" version="1.0">
+<userchart name="NAVAREA IV - in force - 20261112_0730" description="" version="1.0">
   <!--userchart line-->
   <lines>
     <line name="NAV IV 1083/26" description="">
@@ -191,6 +191,15 @@
         <vertex id="4" latitude="44.516667" longitude="-55.333333"/>
         <vertex id="5" latitude="42.983333" longitude="-57.383333"/>
         <vertex id="6" latitude="42.583333" longitude="-59.033333"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
+    <area name="NAV IV 1073/26" description="">
+      <position>
+        <vertex id="1" latitude="6.891000" longitude="-58.175333"/>
+        <vertex id="2" latitude="6.875167" longitude="-58.153333"/>
+        <vertex id="3" latitude="6.816167" longitude="-58.196167"/>
+        <vertex id="4" latitude="6.832000" longitude="-58.218333"/>
       </position>
       <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
     </area>
