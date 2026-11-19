@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--userchart node-->
-<userchart name="NAVAREA I - in force - 20261117_1940" description="" version="1.0">
+<userchart name="NAVAREA I - in force - 20261119_0103" description="" version="1.0">
   <!--userchart line-->
   <lines>
   </lines>
   <!--userchart area-->
   <areas>
+    <area name="NAV I 0247/26" description="">
+      <position>
+        <vertex id="1" latitude="52.938333" longitude="2.291667"/>
+        <vertex id="2" latitude="53.055000" longitude="2.581667"/>
+        <vertex id="3" latitude="52.836667" longitude="2.585000"/>
+        <vertex id="4" latitude="52.805000" longitude="2.541667"/>
+        <vertex id="5" latitude="52.793333" longitude="2.443333"/>
+      </position>
+      <type checkDanger="1" displayRadar="0" hasNotes="0" notesType="0"/>
+    </area>
     <area name="NAV I 0246/26 500m zone" description="">
       <position>
         <vertex id="1" latitude="52.132833" longitude="3.940000"/>

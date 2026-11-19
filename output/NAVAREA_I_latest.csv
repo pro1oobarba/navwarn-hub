@@ -1,6 +1,18 @@
 // USER CHART SHEET exported by JRC ECDIS.
 // <<NOTE>>This strings // indicate comment column/cells. You can edit freely.
-// Navarea I - in force - 20261117_1940
+// Navarea I - in force - 20261119_0103
+// POLYGON
+// Comment
+// Lat,,,Lon,Add "END" to the end of vertex.
+POLYGON
+NAV I 0247/26 ENGLAND, EAST COAST. SMITHS KNOLL EASTWARDS. CHART
+52,56.300,N,002,17.500,E
+53,03.300,N,002,34.900,E
+52,50.200,N,002,35.100,E
+52,48.300,N,002,32.500,E
+52,47.600,N,002,26.600,E
+52,56.300,N,002,17.500,E
+END
 // DANGER_SYMBOL,InstName
 // Comment
 // Lat,,,Lon
